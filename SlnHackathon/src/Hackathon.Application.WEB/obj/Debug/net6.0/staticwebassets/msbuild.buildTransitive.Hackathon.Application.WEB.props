@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hackathon.Application.WEB.props" />
+</Project>
