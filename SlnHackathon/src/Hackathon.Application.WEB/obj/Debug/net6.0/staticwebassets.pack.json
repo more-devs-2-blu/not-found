@@ -5,12 +5,284 @@
       "PackagePath": "staticwebassets\\Hackathon.Application.WEB.bundle.scp.css"
     },
     {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\css\\serenity.css",
+      "PackagePath": "staticwebassets\\css\\serenity.css"
+    },
+    {
       "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-4.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-5.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-6.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\bnu.jpg",
+      "PackagePath": "staticwebassets\\img\\bnu.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\city.jpeg",
+      "PackagePath": "staticwebassets\\img\\city.jpeg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-1.jpg",
+      "PackagePath": "staticwebassets\\img\\features-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-2.jpg",
+      "PackagePath": "staticwebassets\\img\\features-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-3.jpg",
+      "PackagePath": "staticwebassets\\img\\features-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-4.jpg",
+      "PackagePath": "staticwebassets\\img\\features-4.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\icon.png",
+      "PackagePath": "staticwebassets\\img\\icon.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\logo-transparente.png",
+      "PackagePath": "staticwebassets\\img\\logo-transparente.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\skills-img.jpg",
+      "PackagePath": "staticwebassets\\img\\skills-img.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-5.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-6.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-6.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-6.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-6.jpg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-1.png",
+      "PackagePath": "staticwebassets\\img\\work-process-1.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-2.png",
+      "PackagePath": "staticwebassets\\img\\work-process-2.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-3.png",
+      "PackagePath": "staticwebassets\\img\\work-process-3.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-4.png",
+      "PackagePath": "staticwebassets\\img\\work-process-4.png"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\serenity.js",
+      "PackagePath": "staticwebassets\\js\\serenity.js"
     },
     {
       "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\site.js",
@@ -243,6 +515,302 @@
     {
       "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\vendor\\waypoints\\noframework.waypoints.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hackathon.Application.WEB.Microsoft.AspNetCore.StaticWebAssets.props",

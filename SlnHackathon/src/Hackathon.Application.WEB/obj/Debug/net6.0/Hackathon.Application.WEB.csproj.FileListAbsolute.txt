@@ -1,11 +1,3 @@
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.AssemblyReference.cache
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.GeneratedMSBuildEditorConfig.editorconfig
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfoInputs.cache
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfo.cs
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.CoreCompileInputs.cache
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.MvcApplicationPartsAssemblyInfo.cache
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cache
-C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cs
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\appsettings.Development.json
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\appsettings.json
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.staticwebassets.runtime.json
@@ -77,6 +69,14 @@ C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackath
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.Service.pdb
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Domain.pdb
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Infra.Data.pdb
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.AssemblyReference.cache
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfoInputs.cache
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfo.cs
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.CoreCompileInputs.cache
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cache
+C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cs
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.Hackathon.Application.WEB.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.Hackathon.Application.WEB.props
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hackathon.Application.WEB.props

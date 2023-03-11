@@ -1,4 +1,6 @@
 ﻿using Hackathon.Application.WEB.Models;
+using Hackathon.Domain.Interfaces.IServices;
+using Hackathon.Domain.Util;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -6,11 +8,11 @@ namespace Hackathon.Application.WEB.Controllers
 {
 	public class HomeController : Controller
 	{
-		private readonly ILogger<HomeController> _logger;
+        private readonly IUsuarioService _userService;
 
-		public HomeController(ILogger<HomeController> logger)
+		public HomeController(IUsuarioService userService)
 		{
-			_logger = logger;
+            _userService = userService;
 		}
 
 		public IActionResult Index()
@@ -18,12 +20,38 @@ namespace Hackathon.Application.WEB.Controllers
 			return View();
 		}
 
-		public IActionResult Privacy()
+		public IActionResult Login()
 		{
 			return View();
 		}
 
-		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        [HttpPost]
+        public JsonResult Login(string userName, string passWord)
+        {
+            var users = _userService.FindAll();
+            
+            var retSignIn = new ReturnJsonUser
+            {
+                status = "error",
+                username = ""
+            };
+
+            foreach (var item in users)
+            {
+                if (userName == item.nome && passWord == item.senha)
+                {
+                    retSignIn = new ReturnJsonUser
+                    {
+                        status = "success",
+                        username = item.nome
+                    };
+                    return Json(retSignIn);
+                }
+            }
+            return Json(retSignIn);
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 		public IActionResult Error()
 		{
 			return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

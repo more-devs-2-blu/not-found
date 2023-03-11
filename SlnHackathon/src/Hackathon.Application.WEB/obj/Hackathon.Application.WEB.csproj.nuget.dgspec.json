@@ -10,11 +10,15 @@
         "projectUniqueName": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
         "projectName": "Hackathon.Application.Service",
         "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
-        "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
         "outputPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -69,11 +73,15 @@
         "projectUniqueName": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
         "projectName": "Hackathon.Application.WEB",
         "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
-        "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
         "outputPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -147,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -157,11 +165,15 @@
         "projectUniqueName": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
         "projectName": "Hackathon.Domain",
         "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
-        "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
         "outputPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -202,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -212,11 +224,15 @@
         "projectUniqueName": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj",
         "projectName": "Hackathon.Infra.Data",
         "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
         "outputPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -281,7 +297,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
