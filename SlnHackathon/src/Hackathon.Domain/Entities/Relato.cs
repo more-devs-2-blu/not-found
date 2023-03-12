@@ -12,14 +12,13 @@ namespace Hackathon.Domain.Entities
 		public int Id { get; set; }
 		public int UsuarioId { get; set; }
 		public int CategoriaId { get; set; }
-		public string Titulo { get; set; }
 		public string Relatorio { get; set; }
-		public string? Rua { get; set; }
-		public string? Bairro { get; set; }
-		public string? CEP { get; set; }
-		public string? Imagem { get; set; }
-		public string? Latitude { get; set; }
-		public string? Longitude { get; set; }
+		public string Rua { get; set; }
+		public string Bairro { get; set; }
+		public string CEP { get; set; }
+        public string Estado { get; set; }
+        public string Cidade { get; set; }
+        public string? Imagem { get; set; }
 		public DateTime Data { get; set; }
 		public int ContadorLikes { get; set; }
 		public StatusEnum Status { get; set; }

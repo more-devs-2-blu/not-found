@@ -32,7 +32,7 @@ namespace Hackathon.Application.WEB.Controllers
 		}
 
 		[HttpPost]
-		public async Task<IActionResult> Create([Bind("id, usuarioId, categoriaId, titulo, relatorio, rua, bairro, cep, imagem, latitude, longitude, data, contadorLikes, status")] RelatoDTO relato)
+		public async Task<IActionResult> Create([Bind("id, usuarioId, categoriaId, relatorio, rua, bairro, cep, imagem, cidade, estado, data, contadorLikes, status")] RelatoDTO relato)
 		{
 			if (ModelState.IsValid)
 			{
@@ -52,7 +52,7 @@ namespace Hackathon.Application.WEB.Controllers
 			return View(await _service.FindById(id));
 		}
 		[HttpPost]
-		public async Task<IActionResult> Edit(int? id, [Bind("id, usuarioId, categoriaId, titulo, relatorio, rua, bairro, cep, imagem, latitude, longitude, data, contadorLikes, status")] RelatoDTO relato)
+		public async Task<IActionResult> Edit(int? id, [Bind("id, usuarioId, categoriaId, relatorio, rua, bairro, cep, imagem, cidade, estado, data, contadorLikes, status")] RelatoDTO relato)
 		{
 			if (!(id == relato.id))
 			{
