@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marcos\\.nuget\\packages\\": {}
+    "C:\\Users\\eduar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
+      "projectUniqueName": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
       "projectName": "Hackathon.Application.Service",
-      "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
-      "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\obj\\",
+      "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
+      "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+      "outputPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
-              "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
+            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
+              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
             }
           }
         }
@@ -79,12 +79,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

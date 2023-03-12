@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5TL9Zo1OGI6L7ghsmQj0LPYgCRq7eoVEHurKPxyo+HiOJRCbk7SrZmWHzfS6Fg/H+otXI2gNb4OICvyzBwSFww==",
+  "dgSpecHash": "OjNRX5TYeeACg4nsPorHNhygfy0OuZLs9BRuM7xSNyV4ZxKRa/LUtau7qd8x3jeNOrNUB7RC9hqO+yAB8jyAkA==",
   "success": true,
-  "projectFilePath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
