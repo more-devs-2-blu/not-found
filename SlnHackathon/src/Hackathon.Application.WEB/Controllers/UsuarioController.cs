@@ -10,7 +10,7 @@ namespace Hackathon.Application.WEB.Controllers
 		{
 			_service = service;
 		}
-		public IActionResult Index()
+		public IActionResult Create()
 		{
 			return View();
 		}

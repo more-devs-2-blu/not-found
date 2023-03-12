@@ -7291,24 +7291,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gerso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Marcos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
+      "projectUniqueName": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
       "projectName": "Hackathon.Application.WEB",
-      "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
-      "packagesPath": "C:\\Users\\gerso\\.nuget\\packages\\",
-      "outputPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\",
+      "projectPath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
+      "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+      "outputPath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gerso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7322,14 +7317,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj": {
-              "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj"
+            "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj": {
+              "projectPath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj"
             },
-            "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
-              "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
+            "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
+              "projectPath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
             },
-            "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj": {
-              "projectPath": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj"
+            "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj": {
+              "projectPath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj"
             }
           }
         }
@@ -7382,7 +7377,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

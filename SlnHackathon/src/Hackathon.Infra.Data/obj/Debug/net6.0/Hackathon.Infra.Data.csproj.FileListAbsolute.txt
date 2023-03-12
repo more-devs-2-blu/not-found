@@ -15,3 +15,20 @@ C:\Hackathon\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\refint\Hacka
 C:\Hackathon\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.pdb
 C:\Hackathon\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.genruntimeconfig.cache
 C:\Hackathon\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\ref\Hackathon.Infra.Data.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.deps.json
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.runtimeconfig.json
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Domain.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Domain.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.csproj.AssemblyReference.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.AssemblyInfoInputs.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.AssemblyInfo.cs
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.csproj.CopyComplete
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\refint\Hackathon.Infra.Data.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.genruntimeconfig.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\ref\Hackathon.Infra.Data.dll
