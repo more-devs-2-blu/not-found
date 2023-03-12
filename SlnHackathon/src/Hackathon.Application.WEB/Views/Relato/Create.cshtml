@@ -13,11 +13,6 @@
                     <select asp-for="categoriaId" class="form-control" asp-items="ViewBag.categoriaId"></select>
                 </div>
                 <div class="form-group">
-                    <label asp-for="titulo" class="control-label"></label>
-                    <input asp-for="titulo" class="form-control" />
-                    <span asp-validation-for="titulo" class="text-danger"></span>
-                </div>
-                <div class="form-group">
                     <label asp-for="relatorio" class="control-label"></label>
                     <textarea asp-for="relatorio" class="form-control"></textarea>
                     <span asp-validation-for="relatorio" class="text-danger"></span>
@@ -29,12 +24,22 @@
                 </div>
                 <div class="form-group">
                     <label asp-for="bairro" class="control-label"></label>
-                    <input id="bairro" asp-for="bairro" class="form-control" />
+                    <input readonly id="bairro" asp-for="bairro" class="form-control" />
                     <span asp-validation-for="bairro" class="text-danger"></span>
                 </div>
                 <div class="form-group">
+                    <label asp-for="estado" class="control-label"></label>
+                    <input readonly id="estado" asp-for="estado" class="form-control" />
+                    <span asp-validation-for="estado" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="cidade" class="control-label"></label>
+                    <input readonly id="cidade" asp-for="cidade" class="form-control" />
+                    <span asp-validation-for="cidade" class="text-danger"></span>
+                </div>
+                <div class="form-group">
                     <label asp-for="cep" class="control-label"></label>
-                    <input id="cep" asp-for="cep" class="form-control" />
+                    <input readonly id="cep" asp-for="cep" class="form-control" />
                     <span asp-validation-for="cep" class="text-danger"></span>
                 </div>
                 <input type="hidden" value="@DateTime.Now" asp-for="data" />
