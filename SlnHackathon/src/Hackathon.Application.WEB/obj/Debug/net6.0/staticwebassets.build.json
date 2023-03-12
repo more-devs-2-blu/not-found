@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TZE/qSu1g7++e13xCQaMkYXbeuz4VrJ3R/+diQRPfDI=",
+  "Hash": "uGVP9gcwm1QEkSYH/UAI7R6lan3ASTjGxZkhyGnrvcs=",
   "Source": "Hackathon.Application.WEB",
   "BasePath": "_content/Hackathon.Application.WEB",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Hackathon.Application.WEB\\wwwroot",
       "Source": "Hackathon.Application.WEB",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hackathon.Application.WEB.styles.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hackathon.Application.WEB.styles.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "Hackathon.Application.WEB.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hackathon.Application.WEB.styles.css"
+      "OriginalItemSpec": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hackathon.Application.WEB.styles.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hackathon.Application.WEB.bundle.scp.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hackathon.Application.WEB.bundle.scp.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "Hackathon.Application.WEB.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hackathon.Application.WEB.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hackathon.Application.WEB.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\css\\serenity.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\css\\serenity.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "css/serenity.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\serenity.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\css\\site.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\favicon.ico",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\about.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\about.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\apple-touch-icon.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\apple-touch-icon.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/apple-touch-icon.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\apple-touch-icon.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-4.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-author.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-author.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-author.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-author.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-inside-post.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-inside-post.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-inside-post.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-inside-post.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-recent-1.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-recent-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-recent-2.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-recent-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-recent-3.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-recent-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-4.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-4.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-recent-4.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-recent-4.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-5.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\blog-recent-5.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/blog-recent-5.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-recent-5.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/comments-1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\comments-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/comments-2.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\comments-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/comments-3.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\comments-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-4.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-4.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/comments-4.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\comments-4.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-5.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-5.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/comments-5.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\comments-5.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-6.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\blog\\comments-6.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/blog/comments-6.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\comments-6.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\bnu.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\bnu.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/bnu.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bnu.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\city.jpeg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\city.jpeg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/city.jpeg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\city.jpeg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-1.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-1.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-1.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-1.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-2.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-2.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-2.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-2.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-3.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-3.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-3.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-3.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-4.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-4.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-4.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-4.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-5.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-5.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-5.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-5.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-6.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-6.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-6.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-6.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-7.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-7.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-7.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-7.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-8.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\clients\\client-8.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/clients/client-8.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-8.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\favicon.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\favicon.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/features-1.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\features-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/features-2.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\features-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/features-3.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\features-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-4.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\features-4.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/features-4.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\features-4.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\hero-bg.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\hero-bg.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/hero-bg.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero-bg.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\icon.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\icon.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/icon.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\logo-transparente.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\logo-transparente.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/logo-transparente.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-transparente.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-1.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-2.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-3.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-4.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-4.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-5.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-5.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-6.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-6.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-7.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-7.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-8.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-8.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-9.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-9.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-details-1.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-details-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-details-2.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-details-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\portfolio\\portfolio-details-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/portfolio/portfolio-details-3.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio-details-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\skills-img.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\skills-img.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/skills-img.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\skills-img.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/team/team-1.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/team/team-2.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/team/team-3.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-4.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-4.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/team/team-4.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-5.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-5.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/team/team-5.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-5.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-6.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\team\\team-6.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/team/team-6.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-6.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/testimonials/testimonials-1.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/testimonials/testimonials-2.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/testimonials/testimonials-3.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/testimonials/testimonials-4.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/testimonials/testimonials-5.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-6.jpg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\testimonials\\testimonials-6.jpg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/testimonials/testimonials-6.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\testimonials-6.jpg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-1.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-1.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/work-process-1.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-process-1.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-2.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-2.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/work-process-2.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-process-2.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-3.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-3.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/work-process-3.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\work-process-3.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-4.png",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\img\\work-process-4.png",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "img/work-process-4.png",
       "AssetKind": "All",
@@ -1224,10 +1224,44 @@
       "OriginalItemSpec": "wwwroot\\img\\work-process-4.png"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\serenity.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\jquery.mask.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "BasePath": "_content/Hackathon.Application.WEB",
+      "RelativePath": "js/jquery.mask.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.mask.min.js"
+    },
+    {
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\mascaras.js",
+      "SourceId": "Hackathon.Application.WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "BasePath": "_content/Hackathon.Application.WEB",
+      "RelativePath": "js/mascaras.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\mascaras.js"
+    },
+    {
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\serenity.js",
+      "SourceId": "Hackathon.Application.WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "js/serenity.js",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\serenity.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\site.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1258,10 +1292,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\js\\viaCEP.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "BasePath": "_content/Hackathon.Application.WEB",
+      "RelativePath": "js/viaCEP.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\viaCEP.js"
+    },
+    {
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Hackathon.Application.WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1275,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1292,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1309,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1343,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1360,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1377,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1411,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1428,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1445,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1479,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1496,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1513,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1547,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1564,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1581,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1615,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1649,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1683,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1700,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1717,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1751,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1768,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1785,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1819,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1836,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1853,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1870,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1887,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1904,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1921,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1938,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1955,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1972,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1989,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2006,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2023,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2040,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2057,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2074,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2091,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2108,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2125,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2142,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2159,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2176,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2193,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2210,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2227,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\aos\\aos.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\aos\\aos.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/aos/aos.css",
       "AssetKind": "All",
@@ -2244,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\aos\\aos.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\aos\\aos.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/aos/aos.js",
       "AssetKind": "All",
@@ -2261,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -2278,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2295,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2312,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2329,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2346,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2363,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2380,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2397,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2414,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2431,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2448,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2465,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2482,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2499,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2516,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2533,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2550,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2567,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2584,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2601,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2618,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2635,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2652,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2669,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2686,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2703,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2720,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2737,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2754,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2771,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2788,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2805,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2822,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2839,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2856,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2873,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2890,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2907,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2924,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2941,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -2958,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2975,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2992,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3009,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -3026,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -3043,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -3060,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -3077,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -3094,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\animations.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\animations.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/css/animations.css",
       "AssetKind": "All",
@@ -3111,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/css/boxicons.css",
       "AssetKind": "All",
@@ -3128,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/css/boxicons.min.css",
       "AssetKind": "All",
@@ -3145,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/css/transformations.css",
       "AssetKind": "All",
@@ -3162,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -3179,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -3196,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -3213,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -3230,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/boxicons/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -3247,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -3264,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -3281,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/glightbox/css/plyr.css",
       "AssetKind": "All",
@@ -3298,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\plyr.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/glightbox/css/plyr.min.css",
       "AssetKind": "All",
@@ -3315,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -3332,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -3349,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/isotope-layout/isotope.pkgd.js",
       "AssetKind": "All",
@@ -3366,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/isotope-layout/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -3383,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/purecounter/purecounter_vanilla.js",
       "AssetKind": "All",
@@ -3400,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\purecounter\\purecounter_vanilla.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/purecounter/purecounter_vanilla.js.map",
       "AssetKind": "All",
@@ -3417,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -3434,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -3451,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",
@@ -3468,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\waypoints\\noframework.waypoints.js",
+      "Identity": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\vendor\\waypoints\\noframework.waypoints.js",
       "SourceId": "Hackathon.Application.WEB",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Hackathon\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
+      "ContentRoot": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Application.WEB\\wwwroot\\",
       "BasePath": "_content/Hackathon.Application.WEB",
       "RelativePath": "vendor/waypoints/noframework.waypoints.js",
       "AssetKind": "All",

@@ -13,3 +13,18 @@ C:\Hackathon\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hac
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\refint\Hackathon.Application.Service.dll
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.pdb
 C:\Hackathon\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\ref\Hackathon.Application.Service.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.deps.json
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Domain.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Domain.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.AssemblyReference.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.AssemblyInfoInputs.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.AssemblyInfo.cs
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.CoreCompileInputs.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.CopyComplete
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\refint\Hackathon.Application.Service.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\ref\Hackathon.Application.Service.dll

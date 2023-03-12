@@ -25,10 +25,10 @@ namespace Hackathon.Infra.Data.Context
 
 			modelBuilder.Entity<Usuario>()
 				.HasData(
-				new { Id = 1, Nome = "Anônimo", Senha = "Anonimo"},
-				new { Id = 2, Nome = "João", Senha = "Joao" },
-				new { Id = 3, Nome = "Maria", Senha = "Maria" },
-				new { Id = 4, Nome = "Felipe", Senha = "Felipe" }
+				new { Id = 1, Nome = "Anônimo", Senha = "Anonimo", Email = "anonimo@gmail.com"},
+				new { Id = 2, Nome = "João", Senha = "Joao", Email = "joao@gmail.com", Telefone = "(47) 991456-5645" },
+				new { Id = 3, Nome = "Maria", Senha = "Maria", Email = "maria@gmail.com", Telefone = "(47) 99115-5712" },
+				new { Id = 4, Nome = "Felipe", Senha = "Felipe", Email = "felipe@gmail.com", Telefone = "(47) 99748-9632" }
 				);
 
 	}

@@ -149,26 +149,33 @@ namespace Hackathon.Infra.Data.Migrations
                         new
                         {
                             Id = 1,
+                            Email = "anonimo@gmail.com",
                             Nome = "Anônimo",
                             Senha = "Anonimo"
                         },
                         new
                         {
                             Id = 2,
+                            Email = "joao@gmail.com",
                             Nome = "João",
-                            Senha = "Joao"
+                            Senha = "Joao",
+                            Telefone = "(47) 991456-5645"
                         },
                         new
                         {
                             Id = 3,
+                            Email = "maria@gmail.com",
                             Nome = "Maria",
-                            Senha = "Maria"
+                            Senha = "Maria",
+                            Telefone = "(47) 99115-5712"
                         },
                         new
                         {
                             Id = 4,
+                            Email = "felipe@gmail.com",
                             Nome = "Felipe",
-                            Senha = "Felipe"
+                            Senha = "Felipe",
+                            Telefone = "(47) 99748-9632"
                         });
                 });
 

@@ -10,3 +10,15 @@ C:\Hackathon\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain
 C:\Hackathon\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\refint\Hackathon.Domain.dll
 C:\Hackathon\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.pdb
 C:\Hackathon\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\ref\Hackathon.Domain.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.deps.json
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.csproj.AssemblyReference.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.AssemblyInfoInputs.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.AssemblyInfo.cs
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.csproj.CoreCompileInputs.cache
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\refint\Hackathon.Domain.dll
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.pdb
+C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\ref\Hackathon.Domain.dll
