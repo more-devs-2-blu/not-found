@@ -20,7 +20,13 @@ namespace Hackathon.Application.WEB.Controllers
 			return View(_service.FindAll());
 		}
 
-		[HttpPost]
+        public async Task<IActionResult> Create()
+        {
+            ViewData["categoriaId"] = new SelectList(_serviceCategoria.FindAll(), "id", "descricao");
+            return View();
+        }
+
+        [HttpPost]
 		public async Task<IActionResult> Create([Bind("id, usuarioId, categoriaId, relatorio, rua, bairro, cep, imagem, cidade, estado, data, contadorLikes, status")] RelatoDTO relato)
 		{
 			if (ModelState.IsValid)
