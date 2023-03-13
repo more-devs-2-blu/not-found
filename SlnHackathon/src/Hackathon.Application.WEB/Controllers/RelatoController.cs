@@ -20,17 +20,6 @@ namespace Hackathon.Application.WEB.Controllers
 			return View(_service.FindAll());
 		}
 
-		public async Task<IActionResult> Details(int id)
-		{
-			return View(_service.FindAll()
-							.Where(c => c.id == id));
-		}
-		public IActionResult Create()
-		{
-			ViewData["categoriaId"] = new SelectList(_serviceCategoria.FindAll(),"id","descricao");
-			return View();
-		}
-
 		[HttpPost]
 		public async Task<IActionResult> Create([Bind("id, usuarioId, categoriaId, relatorio, rua, bairro, cep, imagem, cidade, estado, data, contadorLikes, status")] RelatoDTO relato)
 		{
@@ -44,7 +33,7 @@ namespace Hackathon.Application.WEB.Controllers
 
 		}
 
-		public async Task<IActionResult> Edit(int id)
+		public async Task<IActionResult> Details(int id)
 		{
 			if (id == null)
 				return NotFound();
@@ -52,7 +41,7 @@ namespace Hackathon.Application.WEB.Controllers
 			return View(await _service.FindById(id));
 		}
 		[HttpPost]
-		public async Task<IActionResult> Edit(int? id, [Bind("id, usuarioId, categoriaId, relatorio, rua, bairro, cep, imagem, cidade, estado, data, contadorLikes, status")] RelatoDTO relato)
+		public async Task<IActionResult> Details(int? id, [Bind("id, usuarioId, categoriaId, relatorio, rua, bairro, cep, imagem, cidade, estado, data, contadorLikes, status")] RelatoDTO relato)
 		{
 			if (!(id == relato.id))
 			{
@@ -61,7 +50,7 @@ namespace Hackathon.Application.WEB.Controllers
 			if (ModelState.IsValid)
 			{
 				if (await _service.Save(relato) > 0)
-					return RedirectToAction(nameof(Index));
+					return RedirectToAction(nameof(Details));
 			}
 			ViewData["categoriaId"] = new SelectList(_serviceCategoria.FindAll(), "id", "descricao");
 			return View(relato);

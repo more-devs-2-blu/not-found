@@ -61,15 +61,15 @@ namespace Hackathon.Application.Service.Services
 			return dto.mapToDTO(await this._repository.FindById(id));
 		}
 
-		public Task<int> Save(RelatoDTO dto)
+		public async Task<int> Save(RelatoDTO dto)
 		{
 			if(dto.id > 0)
 			{
-				return this._repository.Update(dto.mapToEntity());
+				return await this._repository.Update(dto.mapToEntity());
 			}
 			else
 			{
-				return this._repository.Save(dto.mapToEntity());
+				return await this._repository.Save(dto.mapToEntity());
 			}
 		}
 	}
