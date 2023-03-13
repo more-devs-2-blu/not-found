@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
+      "projectUniqueName": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
       "projectName": "Hackathon.Domain",
-      "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
+      "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\obj\\",
+      "outputPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",

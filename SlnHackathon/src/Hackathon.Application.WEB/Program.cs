@@ -12,8 +12,7 @@ builder.Services.AddControllersWithViews();
 
 // Context SQLServer
 builder.Services.AddDbContext<SQLServerContext>
-    //(options => options.UseSqlServer(builder.Configuration.GetConnectionString("SQLServerConnection")));
-    (options => options.UseSqlite(builder.Configuration.GetConnectionString("SQLServerConnection")));
+	(options => options.UseSqlite(builder.Configuration.GetConnectionString("SQLServerConnection")));
 
 // ## Dependency Injection
 // Repositories

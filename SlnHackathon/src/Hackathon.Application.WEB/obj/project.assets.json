@@ -7620,11 +7620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
+      "projectUniqueName": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
       "projectName": "Hackathon.Application.WEB",
-      "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
+      "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\",
+      "outputPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7641,14 +7641,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj": {
-              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj"
+            "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj": {
+              "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj"
             },
-            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
-              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
+            "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
+              "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
             },
-            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj": {
-              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj"
+            "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj": {
+              "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj"
             }
           }
         }

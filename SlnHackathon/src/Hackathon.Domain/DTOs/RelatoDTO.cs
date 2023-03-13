@@ -13,14 +13,13 @@ namespace Hackathon.Domain.DTOs
 		public int id { get; set; }
 		public int usuarioId { get; set; }
 		public int categoriaId { get; set; }
-		public string titulo { get; set; }
 		public string relatorio { get; set; }
-		public string? rua { get; set; }
-		public string? bairro { get; set; }
-		public string? cep { get; set; }
+		public string rua { get; set; }
+		public string bairro { get; set; }
+		public string cep { get; set; }
+		public string estado { get; set; }
+		public string cidade { get; set; }
 		public string? imagem { get; set; }
-		public string? latitude { get; set; }
-		public string? longitude { get; set; }
 		public DateTime data { get; set; }
 		public int contadorLikes { get; set; }
 		public StatusEnum status { get; set; }
@@ -35,14 +34,13 @@ namespace Hackathon.Domain.DTOs
 				Id = id,
 				UsuarioId = usuarioId,
 				CategoriaId = categoriaId,
-				Titulo = titulo,
 				Relatorio = relatorio,
 				Rua = rua,
 				Bairro = bairro,
 				CEP = cep,
 				Imagem = imagem,
-				Latitude = latitude,
-				Longitude = longitude,
+				Cidade = cidade,
+				Estado = estado,
 				Data = data,
 				ContadorLikes = contadorLikes,
 				Status = status
@@ -56,14 +54,13 @@ namespace Hackathon.Domain.DTOs
 				id = relato.Id,
 				usuarioId = relato.UsuarioId,
 				categoriaId = relato.CategoriaId,
-				titulo = relato.Titulo,
 				relatorio = relato.Relatorio,
 				rua = relato.Rua,
 				bairro = relato.Bairro,
 				cep = relato.CEP,
 				imagem = relato.Imagem,
-				latitude = relato.Latitude,
-				longitude = relato.Longitude,
+				estado = relato.Estado,
+				cidade = relato.Cidade,
 				data = relato.Data,
 				contadorLikes = relato.ContadorLikes,
 				status = relato.Status

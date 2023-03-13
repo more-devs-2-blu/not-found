@@ -12,6 +12,8 @@
                     console.log(location);
                     $("#bairro").val(location.bairro);
                     $("#cep").val(location.cep);
+                    $("#estado").val(location.uf);
+                    $("#cidade").val(location.localidade);
                 }
                 i++;
             })

@@ -29,14 +29,13 @@ namespace Hackathon.Application.Service.Services
 										id = r.Id,
 										categoriaId = r.CategoriaId,
 										usuarioId = r.UsuarioId,
-										titulo = r.Titulo,
 										relatorio = r.Relatorio,
 										rua = r.Rua,
 										bairro = r.Bairro,
 										cep = r.CEP,
 										imagem = r.Imagem,
-										latitude = r.Latitude,
-										longitude = r.Longitude,
+										estado = r.Estado,
+										cidade = r.Cidade,
 										data = r.Data,
 										contadorLikes = r.ContadorLikes,
 										status = r.Status,
@@ -62,15 +61,15 @@ namespace Hackathon.Application.Service.Services
 			return dto.mapToDTO(await this._repository.FindById(id));
 		}
 
-		public Task<int> Save(RelatoDTO dto)
+		public async Task<int> Save(RelatoDTO dto)
 		{
 			if(dto.id > 0)
 			{
-				return this._repository.Update(dto.mapToEntity());
+				return await this._repository.Update(dto.mapToEntity());
 			}
 			else
 			{
-				return this._repository.Save(dto.mapToEntity());
+				return await this._repository.Save(dto.mapToEntity());
 			}
 		}
 	}

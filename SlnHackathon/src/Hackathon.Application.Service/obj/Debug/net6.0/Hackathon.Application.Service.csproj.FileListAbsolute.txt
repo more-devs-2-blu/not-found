@@ -28,18 +28,18 @@ C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Ha
 C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\refint\Hackathon.Application.Service.dll
 C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.pdb
 C:\Nova pasta\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\ref\Hackathon.Application.Service.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.deps.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Domain.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Domain.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.AssemblyReference.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.AssemblyInfoInputs.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.AssemblyInfo.cs
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.CoreCompileInputs.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.CopyComplete
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\refint\Hackathon.Application.Service.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\ref\Hackathon.Application.Service.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.deps.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Application.Service.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Domain.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\bin\Debug\net6.0\Hackathon.Domain.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.AssemblyReference.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.AssemblyInfoInputs.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.AssemblyInfo.cs
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.CoreCompileInputs.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.csproj.CopyComplete
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\refint\Hackathon.Application.Service.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\Hackathon.Application.Service.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.Service\obj\Debug\net6.0\ref\Hackathon.Application.Service.dll

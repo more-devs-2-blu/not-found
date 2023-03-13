@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
+      "projectUniqueName": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
       "projectName": "Hackathon.Application.Service",
-      "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
+      "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\obj\\",
+      "outputPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
-              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
+            "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
+              "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
             }
           }
         }

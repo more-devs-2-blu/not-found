@@ -188,126 +188,126 @@ C:\Nova pasta\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\refint
 C:\Nova pasta\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.pdb
 C:\Nova pasta\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.genruntimeconfig.cache
 C:\Nova pasta\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\ref\Hackathon.Application.WEB.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\appsettings.Development.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\appsettings.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.staticwebassets.runtime.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.exe
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.deps.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.runtimeconfig.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Azure.Core.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Azure.Identity.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Humanizer.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Mono.TextTemplating.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\SQLitePCLRaw.core.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.CodeDom.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Memory.Data.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Text.Json.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.Service.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Domain.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Infra.Data.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.Service.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Domain.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Infra.Data.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.AssemblyReference.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.GeneratedMSBuildEditorConfig.editorconfig
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfoInputs.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfo.cs
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.CoreCompileInputs.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.MvcApplicationPartsAssemblyInfo.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cs
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.Hackathon.Application.WEB.Microsoft.AspNetCore.StaticWebAssets.props
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.Hackathon.Application.WEB.props
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hackathon.Application.WEB.props
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hackathon.Application.WEB.props
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets.pack.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets.build.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets.development.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\scopedcss\bundle\Hackathon.Application.WEB.styles.css
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\scopedcss\projectbundle\Hackathon.Application.WEB.bundle.scp.css
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.CopyComplete
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\refint\Hackathon.Application.WEB.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.genruntimeconfig.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\ref\Hackathon.Application.WEB.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\appsettings.Development.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\appsettings.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.staticwebassets.runtime.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.exe
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.deps.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.runtimeconfig.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.WEB.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Azure.Core.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Azure.Identity.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Humanizer.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.CodeDom.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Memory.Data.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Text.Json.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.Service.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Domain.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Infra.Data.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Application.Service.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Domain.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\bin\Debug\net6.0\Hackathon.Infra.Data.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.AssemblyReference.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfoInputs.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.AssemblyInfo.cs
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.CoreCompileInputs.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.RazorAssemblyInfo.cs
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.Hackathon.Application.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.Hackathon.Application.WEB.props
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hackathon.Application.WEB.props
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hackathon.Application.WEB.props
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets.build.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\staticwebassets.development.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\scopedcss\bundle\Hackathon.Application.WEB.styles.css
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\scopedcss\projectbundle\Hackathon.Application.WEB.bundle.scp.css
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.csproj.CopyComplete
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\refint\Hackathon.Application.WEB.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\Hackathon.Application.WEB.genruntimeconfig.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Application.WEB\obj\Debug\net6.0\ref\Hackathon.Application.WEB.dll

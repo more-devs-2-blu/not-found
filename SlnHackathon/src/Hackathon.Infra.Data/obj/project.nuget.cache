@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "li3iYCU3wIuF82/LFuNW9IF+MfGbHJmcRrHtDTtEQ49pI4i+tmZwJklbGG21Fwu8OZgwIgDiCaiM6LLGqwl7Uw==",
+  "dgSpecHash": "0ddqt3WHWKrR7mnvF5zkLMUMX7AoTKaKPmSu0xzT4emmoOA7OXHbtdjqB+tBTntZLW6ri4eRvk1r4VBONug0Og==",
   "success": true,
-  "projectFilePath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj",
+  "projectFilePath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

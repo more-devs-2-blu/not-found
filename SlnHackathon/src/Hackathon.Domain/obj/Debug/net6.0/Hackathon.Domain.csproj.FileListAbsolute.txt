@@ -22,15 +22,15 @@ C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domai
 C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\refint\Hackathon.Domain.dll
 C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.pdb
 C:\Nova pasta\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\ref\Hackathon.Domain.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.deps.json
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.csproj.AssemblyReference.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.AssemblyInfoInputs.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.AssemblyInfo.cs
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.csproj.CoreCompileInputs.cache
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\refint\Hackathon.Domain.dll
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.pdb
-D:\mycity\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\ref\Hackathon.Domain.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.deps.json
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\bin\Debug\net6.0\Hackathon.Domain.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.csproj.AssemblyReference.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.AssemblyInfoInputs.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.AssemblyInfo.cs
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.csproj.CoreCompileInputs.cache
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\refint\Hackathon.Domain.dll
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\Hackathon.Domain.pdb
+D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Domain\obj\Debug\net6.0\ref\Hackathon.Domain.dll

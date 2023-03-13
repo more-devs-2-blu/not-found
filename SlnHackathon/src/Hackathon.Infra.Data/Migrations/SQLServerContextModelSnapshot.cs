@@ -61,13 +61,19 @@ namespace Hackathon.Infra.Data.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Bairro")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("CEP")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<int>("CategoriaId")
                         .HasColumnType("INTEGER");
+
+                    b.Property<string>("Cidade")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
 
                     b.Property<int>("ContadorLikes")
                         .HasColumnType("INTEGER");
@@ -75,13 +81,11 @@ namespace Hackathon.Infra.Data.Migrations
                     b.Property<DateTime>("Data")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Estado")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Imagem")
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Latitude")
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Longitude")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Relatorio")
@@ -89,14 +93,11 @@ namespace Hackathon.Infra.Data.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Rua")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Status")
                         .HasColumnType("INTEGER");
-
-                    b.Property<string>("Titulo")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
 
                     b.Property<int>("UsuarioId")
                         .HasColumnType("INTEGER");
