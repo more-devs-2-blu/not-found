@@ -11,8 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Context SQLServer
-builder.Services.AddDbContext<SQLServerContext>
-	(options => options.UseSqlite(builder.Configuration.GetConnectionString("SQLServerConnection")));
+builder.Services.AddDbContext<SQLiteContext>
+	(options => options.UseSqlite(builder.Configuration.GetConnectionString("SQLiteConnection")));
 
 // ## Dependency Injection
 // Repositories

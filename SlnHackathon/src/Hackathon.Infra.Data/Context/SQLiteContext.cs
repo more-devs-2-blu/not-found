@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Hackathon.Infra.Data.Context
 {
-	public class SQLServerContext : DbContext
+	public class SQLiteContext : DbContext
 	{
-		public SQLServerContext(DbContextOptions<SQLServerContext> options)
+		public SQLiteContext(DbContextOptions<SQLiteContext> options)
 			:base(options) {}
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)

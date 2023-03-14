@@ -13,9 +13,9 @@ namespace Hackathon.Application.WEB.Controllers
 	public class HomeController : Controller
 	{
         private readonly IUsuarioService _userService;
-        private readonly SQLServerContext _context;
+        private readonly SQLiteContext _context;
 
-		public HomeController(SQLServerContext context, IUsuarioService userService)
+		public HomeController(SQLiteContext context, IUsuarioService userService)
 		{
             _context = context;
             _userService = userService;

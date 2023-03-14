@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Hackathon.Infra.Data.Migrations
 {
-    [DbContext(typeof(SQLServerContext))]
-    partial class SQLServerContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(SQLiteContext))]
+    partial class SQLiteContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {

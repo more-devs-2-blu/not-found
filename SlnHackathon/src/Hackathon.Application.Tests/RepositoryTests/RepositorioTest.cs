@@ -10,11 +10,11 @@ namespace Hackathon.Tests.RepositoryTests
     [TestFixture]
     public class RepositorioTest
     {
-        private static DbContextOptions<SQLServerContext> dbContextOptions = new DbContextOptionsBuilder<SQLServerContext>()
+        private static DbContextOptions<SQLiteContext> dbContextOptions = new DbContextOptionsBuilder<SQLiteContext>()
             .UseInMemoryDatabase(databaseName: "Testes unitarios")
             .Options;
 
-        private SQLServerContext _context;
+        private SQLiteContext _context;
         private IBaseRepository<Categoria> _categoriaRepository;
         private IBaseRepository<Relato> _relatoRepository;
         private IBaseRepository<Usuario> _usuarioRepository;
@@ -23,7 +23,7 @@ namespace Hackathon.Tests.RepositoryTests
         [OneTimeSetUp]
         public void Setup()
         {
-            _context = new SQLServerContext(dbContextOptions);
+            _context = new SQLiteContext(dbContextOptions);
             _context.Database.EnsureCreated();
 
             _categoriaRepository = new BaseRepository<Categoria>(_context);

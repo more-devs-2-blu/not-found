@@ -11,6 +11,6 @@ namespace Hackathon.Infra.Data.Repositories
 {
 	public class UsuarioRepository : BaseRepository<Usuario>, IUsuarioRepository
 	{
-		public UsuarioRepository(SQLServerContext context): base(context) { }
+		public UsuarioRepository(SQLiteContext context): base(context) { }
 	}
 }

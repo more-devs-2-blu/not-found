@@ -10,14 +10,9 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Hackathon.Infra.Data.Migrations
 {
-    [DbContext(typeof(SQLServerContext))]
-<<<<<<<< HEAD:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230313231953_SQLite.Designer.cs
-    [Migration("20230313231953_SQLite")]
+    [DbContext(typeof(SQLiteContext))]
+    [Migration("20230314022057_SQLite")]
     partial class SQLite
-========
-    [Migration("20230312213522_Alterando-Relato")]
-    partial class AlterandoRelato
->>>>>>>> main:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230312213522_Alterando-Relato.Designer.cs
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -74,19 +69,11 @@ namespace Hackathon.Infra.Data.Migrations
 
                     b.Property<string>("Bairro")
                         .IsRequired()
-<<<<<<<< HEAD:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230313231953_SQLite.Designer.cs
                         .HasColumnType("TEXT");
 
                     b.Property<string>("CEP")
                         .IsRequired()
                         .HasColumnType("TEXT");
-========
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("CEP")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
->>>>>>>> main:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230312213522_Alterando-Relato.Designer.cs
 
                     b.Property<int>("CategoriaId")
                         .HasColumnType("INTEGER");
@@ -94,10 +81,6 @@ namespace Hackathon.Infra.Data.Migrations
                     b.Property<string>("Cidade")
                         .IsRequired()
                         .HasColumnType("TEXT");
-
-                    b.Property<string>("Cidade")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("ContadorLikes")
                         .HasColumnType("INTEGER");
@@ -109,16 +92,8 @@ namespace Hackathon.Infra.Data.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Estado")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Imagem")
-<<<<<<<< HEAD:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230313231953_SQLite.Designer.cs
                         .HasColumnType("TEXT");
-========
-                        .HasColumnType("nvarchar(max)");
->>>>>>>> main:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230312213522_Alterando-Relato.Designer.cs
 
                     b.Property<string>("Relatorio")
                         .IsRequired()
@@ -126,17 +101,10 @@ namespace Hackathon.Infra.Data.Migrations
 
                     b.Property<string>("Rua")
                         .IsRequired()
-<<<<<<<< HEAD:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230313231953_SQLite.Designer.cs
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Status")
                         .HasColumnType("INTEGER");
-========
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("Status")
-                        .HasColumnType("int");
->>>>>>>> main:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230312213522_Alterando-Relato.Designer.cs
 
                     b.Property<int>("UsuarioId")
                         .HasColumnType("INTEGER");

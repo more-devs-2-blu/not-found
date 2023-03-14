@@ -11,6 +11,6 @@ namespace Hackathon.Infra.Data.Repositories
 {
 	public class RelatoRepository : BaseRepository<Relato>, IRelatoRepository
 	{
-		public RelatoRepository(SQLServerContext context) :base(context) { }
+		public RelatoRepository(SQLiteContext context) :base(context) { }
 	}
 }

@@ -11,6 +11,6 @@ namespace Hackathon.Infra.Data.Repositories
 {
 	public class CategoriaRepository : BaseRepository<Categoria>, ICategoriaRepository
 	{
-		public CategoriaRepository(SQLServerContext context) :base(context) { }
+		public CategoriaRepository(SQLiteContext context) :base(context) { }
 	}
 }

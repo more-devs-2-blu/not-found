@@ -10,8 +10,8 @@ namespace Hackathon.Infra.Data.Repositories
 {
 	public class BaseRepository<T> : IBaseRepository<T> where T : class
 	{
-		private readonly SQLServerContext _context;
-		public BaseRepository(SQLServerContext context)
+		private readonly SQLiteContext _context;
+		public BaseRepository(SQLiteContext context)
 		{
 			_context = context;
 		}
