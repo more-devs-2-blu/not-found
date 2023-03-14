@@ -28,7 +28,7 @@ namespace Hackathon.Domain.DTOs
 			return new CategoriaDTO()
 			{
 				id = categoria.Id,
-				descricao = descricao
+				descricao = categoria.Descricao
 			};
 		}
 	}

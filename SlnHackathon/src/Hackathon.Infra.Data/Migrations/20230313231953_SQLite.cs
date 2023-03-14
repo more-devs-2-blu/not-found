@@ -8,7 +8,11 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Hackathon.Infra.Data.Migrations
 {
     /// <inheritdoc />
+<<<<<<<< HEAD:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230313231953_SQLite.cs
     public partial class SQLite : Migration
+========
+    public partial class AlterandoRelato : Migration
+>>>>>>>> main:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230312213522_Alterando-Relato.cs
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -46,6 +50,7 @@ namespace Hackathon.Infra.Data.Migrations
                 name: "Relatos",
                 columns: table => new
                 {
+<<<<<<<< HEAD:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230313231953_SQLite.cs
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     UsuarioId = table.Column<int>(type: "INTEGER", nullable: false),
@@ -61,6 +66,22 @@ namespace Hackathon.Infra.Data.Migrations
                     ContadorLikes = table.Column<int>(type: "INTEGER", nullable: false),
                     Status = table.Column<int>(type: "INTEGER", nullable: false),
                     Address = table.Column<string>(type: "TEXT", nullable: false)
+========
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    UsuarioId = table.Column<int>(type: "int", nullable: false),
+                    CategoriaId = table.Column<int>(type: "int", nullable: false),
+                    Relatorio = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Rua = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Bairro = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    CEP = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Estado = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Cidade = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Imagem = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Data = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    ContadorLikes = table.Column<int>(type: "int", nullable: false),
+                    Status = table.Column<int>(type: "int", nullable: false)
+>>>>>>>> main:SlnHackathon/src/Hackathon.Infra.Data/Migrations/20230312213522_Alterando-Relato.cs
                 },
                 constraints: table =>
                 {
