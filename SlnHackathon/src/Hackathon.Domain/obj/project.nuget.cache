@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m52+5GQlYCppPW4nbVB0Cc2MlPLK18NeSCUjFWPo5VAWawqubMeW2c/2Ujr5D85CM7I6yE9N58+DqL4HY6KuVQ==",
+  "dgSpecHash": "S31t0yGlg+bfzAU+qtuL6OIM6HsWva7HWGtihvVVzt5/NBF5iVBaMasLifzW+khE3G8e3WASvE+Pu5zzX4mZrA==",
   "success": true,
-  "projectFilePath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
+  "projectFilePath": "C:\\Git HackaThon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

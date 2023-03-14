@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {}
+    "C:\\Git HackaThon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
+    "C:\\Git HackaThon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
+        "projectUniqueName": "C:\\Git HackaThon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
         "projectName": "Hackathon.Domain",
-        "projectPath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
-        "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-        "outputPath": "C:\\Nova pasta\\SlnHackathon\\src\\Hackathon.Domain\\obj\\",
+        "projectPath": "C:\\Git HackaThon\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Git HackaThon\\SlnHackathon\\src\\Hackathon.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
