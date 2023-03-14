@@ -49,3 +49,20 @@ D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\ref
 D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.pdb
 D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.genruntimeconfig.cache
 D:\mycity 2\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\ref\Hackathon.Infra.Data.dll
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.deps.json
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.runtimeconfig.json
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.dll
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Infra.Data.pdb
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Domain.dll
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\bin\Debug\net6.0\Hackathon.Domain.pdb
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.csproj.AssemblyReference.cache
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.AssemblyInfoInputs.cache
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.AssemblyInfo.cs
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.csproj.CoreCompileInputs.cache
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.csproj.CopyComplete
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.dll
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\refint\Hackathon.Infra.Data.dll
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.pdb
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\Hackathon.Infra.Data.genruntimeconfig.cache
+D:\mycity\not-found\SlnHackathon\src\Hackathon.Infra.Data\obj\Debug\net6.0\ref\Hackathon.Infra.Data.dll

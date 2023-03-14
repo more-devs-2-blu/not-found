@@ -17,10 +17,10 @@ namespace Hackathon.Infra.Data.Context
 		{
 			modelBuilder.Entity<Categoria>()
 				.HasData(
-				new {Id = 1, Descricao = "Iluminação"},
-				new {Id = 2, Descricao = "Segurança" },
-				new {Id = 3, Descricao = "Transporte"},
-				new {Id = 4, Descricao = "Vias"}
+				new {Id = 1, Descricao = "Iluminação Pública"},
+				new {Id = 2, Descricao = "Segurança Pública" },
+				new {Id = 3, Descricao = "Transporte Público"},
+				new {Id = 4, Descricao = "Vias Públicas"}
 				);
 
 			modelBuilder.Entity<Usuario>()

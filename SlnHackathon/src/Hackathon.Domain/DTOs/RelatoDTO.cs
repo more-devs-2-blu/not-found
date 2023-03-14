@@ -2,6 +2,7 @@
 using Hackathon.Domain.Enums;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,20 +13,30 @@ namespace Hackathon.Domain.DTOs
 	{
 		public int id { get; set; }
 		public int usuarioId { get; set; }
-		public int categoriaId { get; set; }
-		public string relatorio { get; set; }
-		public string rua { get; set; }
-		public string bairro { get; set; }
-		public string cep { get; set; }
-		public string estado { get; set; }
-		public string cidade { get; set; }
+
+        [Display(Name = "Categoria")]
+        public int categoriaId { get; set; }
+
+        [Display(Name = "Relato")]
+        public string relatorio { get; set; }
+		public string? rua { get; set; }
+		public string? bairro { get; set; }
+		public string? cep { get; set; }
+		public string? estado { get; set; }
+		public string? cidade { get; set; }
 		public string? imagem { get; set; }
 		public DateTime data { get; set; }
 		public int contadorLikes { get; set; }
 		public StatusEnum status { get; set; }
 
-		public virtual UsuarioDTO? usuario { get; set; }
-		public virtual CategoriaDTO? categoria { get; set; }
+        [Display(Name = "Endereço")]
+        public string Address { get; set; }
+
+
+        public virtual UsuarioDTO? usuario { get; set; }
+
+        [Display(Name = "Categoria")]
+        public virtual CategoriaDTO? categoria { get; set; }
 
 		public Relato mapToEntity()
 		{
@@ -35,16 +46,17 @@ namespace Hackathon.Domain.DTOs
 				UsuarioId = usuarioId,
 				CategoriaId = categoriaId,
 				Relatorio = relatorio,
-				Rua = rua,
-				Bairro = bairro,
-				CEP = cep,
+				Rua = rua ?? "",
+				Bairro = bairro ?? "",
+				CEP = cep ?? "",
 				Imagem = imagem,
-				Cidade = cidade,
-				Estado = estado,
+				Cidade = cidade ?? "",
+				Estado = estado ?? "",
 				Data = data,
 				ContadorLikes = contadorLikes,
-				Status = status
-			};
+				Status = status,
+                Address = Address
+            };
 		}
 
 		public RelatoDTO mapToDTO(Relato relato)
@@ -63,8 +75,9 @@ namespace Hackathon.Domain.DTOs
 				cidade = relato.Cidade,
 				data = relato.Data,
 				contadorLikes = relato.ContadorLikes,
-				status = relato.Status
-			};
+				status = relato.Status,
+                Address = relato.Address
+            };
 		}
 	}
 }

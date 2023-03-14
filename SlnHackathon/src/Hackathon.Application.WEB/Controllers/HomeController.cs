@@ -1,7 +1,11 @@
 ﻿using Hackathon.Application.WEB.Models;
+using Hackathon.Domain.DTOs;
+using Hackathon.Domain.Entities;
 using Hackathon.Domain.Interfaces.IServices;
 using Hackathon.Domain.Util;
+using Hackathon.Infra.Data.Context;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace Hackathon.Application.WEB.Controllers
@@ -9,15 +13,29 @@ namespace Hackathon.Application.WEB.Controllers
 	public class HomeController : Controller
 	{
         private readonly IUsuarioService _userService;
+        private readonly SQLServerContext _context;
 
-		public HomeController(IUsuarioService userService)
+		public HomeController(SQLServerContext context, IUsuarioService userService)
 		{
+            _context = context;
             _userService = userService;
 		}
 
 		public IActionResult Index()
 		{
-			return View();
+            IQueryable<Relato> relatosQuery = _context.Relatos
+                .Include(x => x.Categoria)
+                .AsQueryable();
+
+            var dto = new HomeDTO()
+            {
+                Relatos = relatosQuery.OrderByDescending(x => x.Id).Take(6).ToList(),
+                ViasCount = relatosQuery.Count(x => x.Categoria != null && x.Categoria.Descricao == "Vias Públicas"),
+                TransporteCount = relatosQuery.Count(x => x.Categoria != null && x.Categoria.Descricao == "Transporte Público"),
+                SegurancaCount = relatosQuery.Count(x => x.Categoria != null && x.Categoria.Descricao == "Segurança Pública"),
+                IluminacaoCount = relatosQuery.Count(x => x.Categoria != null && x.Categoria.Descricao == "Iluminação Pública")                
+            };
+			return View(dto);
 		}
 
 		public IActionResult Login()

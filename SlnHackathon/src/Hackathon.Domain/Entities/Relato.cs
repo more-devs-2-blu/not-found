@@ -22,8 +22,9 @@ namespace Hackathon.Domain.Entities
 		public DateTime Data { get; set; }
 		public int ContadorLikes { get; set; }
 		public StatusEnum Status { get; set; }
+		public string Address { get; set; }
 
-		public virtual Usuario? Usuario { get; set; }
+        public virtual Usuario? Usuario { get; set; }
 		public virtual Categoria? Categoria { get; set; }
 	}
 }

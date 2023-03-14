@@ -59,6 +59,25 @@
           }
         }
       },
+      "Jmelosegui.Mvc.Googlemap/1.0.13": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/net6.0/Jmelosegui.Mvc.GoogleMap.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Jmelosegui.Mvc.GoogleMap.dll": {
+            "related": ".pdb"
+          }
+        },
+        "build": {
+          "build/Jmelosegui.Mvc.Googlemap.targets": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -808,6 +827,19 @@
           "System.Threading.Timer": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XDocument": "4.3.0"
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -2551,6 +2583,22 @@
         "logo.png"
       ]
     },
+    "Jmelosegui.Mvc.Googlemap/1.0.13": {
+      "sha512": "pM+4b4AmlkqhplrkaA9UdX9JtSbzxmgCE34BspttY1LIXP028An3SAqsRRvjNnI2Fe3eToWjnHE+E3TO8synuA==",
+      "type": "package",
+      "path": "jmelosegui.mvc.googlemap/1.0.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Jmelosegui.Mvc.Googlemap.targets",
+        "content/js/jmelosegui.googlemap.js",
+        "content/js/markerclusterer.js",
+        "jmelosegui.mvc.googlemap.1.0.13.nupkg.sha512",
+        "jmelosegui.mvc.googlemap.nuspec",
+        "lib/net6.0/Jmelosegui.Mvc.GoogleMap.dll",
+        "lib/net6.0/Jmelosegui.Mvc.GoogleMap.pdb"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "sha512": "yuvf07qFWFqtK3P/MRkEKLhn5r2UbSpVueRziSqj0yJQIKFwG1pq9mOayK3zE5qZCTs0CbrwL9M6R8VwqyGy2w==",
       "type": "package",
@@ -3587,6 +3635,33 @@
         "dotnet_library_license.txt",
         "netstandard.library.1.6.1.nupkg.sha512",
         "netstandard.library.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -7607,6 +7682,7 @@
       "Hackathon.Application.Service >= 1.0.0",
       "Hackathon.Domain >= 1.0.0",
       "Hackathon.Infra.Data >= 1.0.0",
+      "Jmelosegui.Mvc.Googlemap >= 1.0.13",
       "Microsoft.EntityFrameworkCore >= 7.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.6",
@@ -7620,11 +7696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
+      "projectUniqueName": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
       "projectName": "Hackathon.Application.WEB",
-      "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
+      "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\Hackathon.Application.WEB.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\",
+      "outputPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7641,14 +7717,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj": {
-              "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj"
+            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj": {
+              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Application.Service\\Hackathon.Application.Service.csproj"
             },
-            "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
-              "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
+            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj": {
+              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Domain\\Hackathon.Domain.csproj"
             },
-            "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj": {
-              "projectPath": "D:\\mycity 2\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj"
+            "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj": {
+              "projectPath": "D:\\mycity\\not-found\\SlnHackathon\\src\\Hackathon.Infra.Data\\Hackathon.Infra.Data.csproj"
             }
           }
         }
@@ -7663,6 +7739,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Jmelosegui.Mvc.Googlemap": {
+            "target": "Package",
+            "version": "[1.0.13, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.3, )"

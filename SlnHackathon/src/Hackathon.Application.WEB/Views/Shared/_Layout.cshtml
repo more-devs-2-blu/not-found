@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@{
+    string CurrentURL = Context.Request.Path;
+}
+
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="utf-8" />
@@ -8,36 +12,59 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/serenity.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Hackathon.Application.WEB.styles.css" asp-append-version="true" />
 
-    <!-- Vendor CSS Files -->
-    <link href="/vendor/aos/aos.css" rel="stylesheet">
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-    <link href="/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 </head>
 <body>
+    <!-- ======= Header ======= -->
     <header id="header" class="fixed-top d-flex align-items-center">
         <div class="container d-flex align-items-center justify-content-between">
-            <div class="logo d-flex justify-content-between align-items-center">
-                <img src="~/img/logo-transparente.png" />
-                <h1 class="text-light ms-2"><a href="/">MyCity</a></h1>
+
+            <div class="logo">
+                <h1 class="text-light"><a href="index.html">MyCity</a></h1>
+                <!-- Uncomment below if you prefer to use an image logo -->
+                <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
             </div>
+
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="active" href="/">Home</a></li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="/Home/Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="/Relato/Index">Relatos</a>
+                    </li>
+
                     <li><a class="getstarted" href="/Home/Login">Registre seu relato</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav>
+            </nav><!-- .navbar -->
+
         </div>
-    </header>
-     
-    @RenderBody()
+    </header><!-- End Header -->
+
+    <!-- ======= Hero Section ======= -->
+    @{
+        if (CurrentURL == "/" || CurrentURL == "/Home/Index")
+        {
+            <section id="hero">
+                <div class="hero-container" data-aos="fade-up">
+                    <h1>Ajude a manter a nossa cidade!</h1>
+                    <h2>Transforme sua cidade: a zeladoria pública é responsabilidade de todos nós!</h2>
+                    <a href="/Home/Login" class="btn-get-started scrollto">Registre aqui</a>
+                </div>
+            </section>
+        }
+    }
+    <!-- End Hero -->
+    <div>
+        <main id="main">
+            @RenderBody()
+        </main>        
+    </div>
 
     <footer id="footer">
         <div class="container d-flex justify-content-center">
@@ -45,22 +72,20 @@
         </div>
     </footer>
 
-    <!-- Vendor JS Files -->
-    <script src="~/vendor/aos/aos.js"></script>
-    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <script src="~/vendor/purecounter/purecounter_vanilla.js"></script>
-    <script src="~/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="~/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="~/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="~/vendor/waypoints/noframework.waypoints.js"></script>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="~/lib/aos/aos.js"></script>
+    <script src="~/lib/glightbox/js/glightbox.min.js"></script>
+    <script src="~/lib/purecounter/purecounter_vanilla.js"></script>
+    <script src="~/lib/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="~/lib/swiper/swiper-bundle.min.js"></script>
+    <script src="~/lib/waypoints/noframework.waypoints.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/js/jquery.mask.min.js" asp-append-version="true"></script>
     <script src="~/js/mascaras.js" asp-append-version="true"></script>
     <script src="~/js/viaCEP.js" asp-append-version="true"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/js/serenity.js" asp-append-version="true"></script>
+
+   
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

@@ -1,55 +1,127 @@
-﻿@model Hackathon.Domain.DTOs.RelatoDTO
-<hr/>
-<hr/>
-<hr/>
-<hr/>
-<div class="row">
-    <div>
+﻿@using Jmelosegui.Mvc.GoogleMap;
+@model Hackathon.Domain.DTOs.RelatoDTO;
+@using System.Globalization;
+
+<!-- ======= Breadcrumbs ======= -->
+<section id="breadcrumbs" class="breadcrumbs">
+    <div class="breadcrumb-hero">
+    </div>
+    <div class="container">
+        <ol>
+            <li>
+                <a href="/Home/Index">Home</a>
+            </li>
+            <li>
+                Relatos
+            </li>
+        </ol>
+    </div>
+</section>
+<!-- End Breadcrumbs -->
+
+<section id="contact" class="contact">
+    <div class="container">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="row">
-				<div class="form-group">
+                <div class="form-group">
                     <label asp-for="categoria" class="control-label"></label>
                     <select asp-for="categoriaId" class="form-control" asp-items="ViewBag.categoriaId"></select>
                 </div>
-                <div class="form-group">
+                <div class="form-group mt-3">
                     <label asp-for="relatorio" class="control-label"></label>
                     <textarea asp-for="relatorio" class="form-control"></textarea>
                     <span asp-validation-for="relatorio" class="text-danger"></span>
                 </div>
-                <div class="form-group">
-                    <label asp-for="rua" class="control-label"></label>
-                    <input id="rua" asp-for="rua" class="form-control" />
-                    <span asp-validation-for="rua" class="text-danger"></span>
+
+                <div class="form-group mt-3 mb-3">
+                    <label asp-for="Address" class="control-label"></label>
+                    <input type="text" id="address" asp-for="Address" class="form-control" />
+                    <span asp-validation-for="Address" class="text-danger"></span>
                 </div>
-                <div class="form-group">
-                    <label asp-for="bairro" class="control-label"></label>
-                    <input readonly id="bairro" asp-for="bairro" class="form-control" />
-                    <span asp-validation-for="bairro" class="text-danger"></span>
-                </div>
-                <div class="form-group">
-                    <label asp-for="estado" class="control-label"></label>
-                    <input readonly id="estado" asp-for="estado" class="form-control" />
-                    <span asp-validation-for="estado" class="text-danger"></span>
-                </div>
-                <div class="form-group">
-                    <label asp-for="cidade" class="control-label"></label>
-                    <input readonly id="cidade" asp-for="cidade" class="form-control" />
-                    <span asp-validation-for="cidade" class="text-danger"></span>
-                </div>
-                <div class="form-group">
-                    <label asp-for="cep" class="control-label"></label>
-                    <input readonly id="cep" asp-for="cep" class="form-control" />
-                    <span asp-validation-for="cep" class="text-danger"></span>
-                </div>
+                @(
+                    Html.GoogleMap()
+                    .Name("map")
+                    .ApiKey("AIzaSyBBFvQs5pUafllTWYAfb9H-ahzDEOo0WFs")
+                    .Height(500)
+                    .Culture(CultureInfo.GetCultureInfo("pt-br"))
+                    .Libraries(new[] { "places" })
+                    .ClientEvents(events => events.OnMapLoaded("mapEvent"))
+                    .Center(c => c.UseCurrentPosition())
+                    )
+
                 <input type="hidden" value="@DateTime.Now" asp-for="data" />
                 <input type="hidden" value="1" asp-for="contadorLikes" />
                 <input type="hidden" value="1" asp-for="usuarioId" />
                 <input type="hidden" value="Novo" asp-for="status" />
             </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+            <div class="form-group mt-3">
+                <input type="submit" value="Enviar" class="btn btn-primary" />
             </div>
         </form>
     </div>
+</section>
+
+<div>
+    <a href="Relato/Index">Voltar para lista</a>
 </div>
+
+
+@section Scripts {
+    @(Html.GoogleMap().ScriptRegistrar())
+    <script type="text/javascript">
+        var map = null;
+        var markers = [];
+        function mapEvent(args) {
+            console.log('>> map event.');
+            map = args.map;
+            markers = args.markers;
+            // Create the search box and link it to the UI element.
+            var input = document.getElementById('address');
+            var searchBox = new google.maps.places.SearchBox(input);
+            //map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+            // Bias the SearchBox results towards current map's viewport.
+            map.addListener('bounds_changed', function () {
+                searchBox.setBounds(map.getBounds());
+            });
+            searchBox.addListener('places_changed', function () {
+                var places = searchBox.getPlaces();
+                if (places.length == 0) {
+                    return;
+                }
+                // Clear out the old markers.
+                if (markers.length > 0) {
+                    markers.forEach(function (marker) {
+                        marker.setMap(null);
+                    });
+                }
+                markers = [];
+                // For each place, get the icon, name and location.
+                var bounds = new google.maps.LatLngBounds();
+                places.forEach(function (place) {
+                    var icon = {
+                        url: place.icon,
+                        size: new google.maps.Size(71, 71),
+                        origin: new google.maps.Point(0, 0),
+                        anchor: new google.maps.Point(17, 34),
+                        scaledSize: new google.maps.Size(25, 25)
+                    };
+                    // Create a marker for each place.
+                    markers.push(new google.maps.Marker({
+                        map: map,
+                        icon: icon,
+                        title: place.name,
+                        position: place.geometry.location
+                    }));
+                    if (place.geometry.viewport) {
+                        // Only geocodes have viewport.
+                        bounds.union(place.geometry.viewport);
+                    } else {
+                        bounds.extend(place.geometry.location);
+                    }
+                });
+                map.fitBounds(bounds);
+            });
+        }
+    </script>
+}

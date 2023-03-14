@@ -35,22 +35,22 @@ namespace Hackathon.Infra.Data.Migrations
                         new
                         {
                             Id = 1,
-                            Descricao = "Iluminação"
+                            Descricao = "Iluminação Pública"
                         },
                         new
                         {
                             Id = 2,
-                            Descricao = "Segurança"
+                            Descricao = "Segurança Pública"
                         },
                         new
                         {
                             Id = 3,
-                            Descricao = "Transporte"
+                            Descricao = "Transporte Público"
                         },
                         new
                         {
                             Id = 4,
-                            Descricao = "Vias"
+                            Descricao = "Vias Públicas"
                         });
                 });
 
@@ -59,6 +59,10 @@ namespace Hackathon.Infra.Data.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
+
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Bairro")
                         .IsRequired()

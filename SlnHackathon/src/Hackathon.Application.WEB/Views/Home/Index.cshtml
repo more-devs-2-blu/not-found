@@ -1,13 +1,7 @@
-﻿@{
+﻿@model Hackathon.Domain.DTOs.HomeDTO
+@{
     ViewData["Title"] = "Home Page";
 }
-<section id="hero">
-    <div class="hero-container" data-aos="fade-up">
-        <h1>Ajude a manter a nossa cidade!</h1>
-        <h2>Transforme sua cidade: a zeladoria pública é responsabilidade de todos nós!</h2>
-        <a href="/Home/Login" class="btn-get-started scrollto">Registre aqui</a>
-    </div>
-</section>
 
 <section id="about" class="about">
     <div class="container">
@@ -18,7 +12,7 @@
                     <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
                         <div class="count-box py-5">
                             <i class="bi bi-sign-stop-lights"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="65" class="purecounter">0</span>
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.ViasCount" class="purecounter">0</span>
                             <p>Vias públicas</p>
                         </div>
                     </div>
@@ -26,7 +20,7 @@
                     <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
                         <div class="count-box py-5">
                             <i class="bi bi-lightbulb"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="85" class="purecounter">0</span>
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.IluminacaoCount" class="purecounter">0</span>
                             <p>Iluminação pública</p>
                         </div>
                     </div>
@@ -34,7 +28,7 @@
                     <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
                         <div class="count-box pb-5 pt-0 pt-lg-5">
                             <i class="bi bi-bus-front"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="27" class="purecounter">0</span>
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.TransporteCount" class="purecounter">0</span>
                             <p>Transporte público</p>
                         </div>
                     </div>
@@ -42,8 +36,8 @@
                     <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
                         <div class="count-box pb-5 pt-0 pt-lg-5">
                             <i class="bi bi-shield-lock"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="22" class="purecounter">0</span>
-                            <p>Segurança</p>
+                            <span data-purecounter-start="0" data-purecounter-end="@Model.SegurancaCount" class="purecounter">0</span>
+                            <p>Segurança pública</p>
                         </div>
                     </div>
 
@@ -62,51 +56,44 @@
         </div>
 
         <div class="row">
-            <div class="col-md-6">
-                <div class="icon-box" data-aos="fade-up">
-                    <div class="icon"><i class="bi bi-lightbulb" style="color: #94c045;"></i></div>
-                    <h4 class="title"><a href="">#6634499 - Iluminação pública</a></h4>
-                    <p class="description">Gostaria de relatar que na rua nazaré do bairro gloria em frente a casa número 184 a luz do poste está queimada.</p>
+            @foreach (var item in Model.Relatos)
+            {
+                <div class="col-md-6">
+                    <div class="icon-box" data-aos="fade-up">
+                        <div class="icon"><i class="bi @GetReportIcon(item.CategoriaId)" style="color: #94c045;"></i></div>
+                        <h4 class="title"><a href="Relato/Details?id=@item.Id">#@item.Id - @GetReportTypeDesc(item.CategoriaId)</a></h4>
+                        <p class="description">@item.Relatorio</p>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-6">
-                <div class="icon-box" data-aos="fade-up">
-                    <div class="icon"><i class="bi bi-bus-front" style="color: #94c045;"></i></div>
-                    <h4 class="title"><a href="">#6634500 - Transporte público</a></h4>
-                    <p class="description">A linha 10 necessita de mais onibus, estão igual sardinha em latada.</p>
-                </div>
-            </div>
-
-            <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
-                <div class="icon-box">
-                    <div class="icon"><i class="bi bi-sign-stop-lights" style="color: #94c045;"></i></div>
-                    <h4 class="title"><a href="">#6634501 - Vías públicas</a></h4>
-                    <p class="description">A rua Imperatriz Leopoldina no bairro Velha está cheia de buracos, favor enviar um fiscal com urgência.</p>
-                </div>
-            </div>
-            <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
-                <div class="icon-box">
-                    <div class="icon"><i class="bi bi-shield-lock" style="color:#94c045;"></i></div>
-                    <h4 class="title"><a href="">#6634502 - Segurança pública</a></h4>
-                    <p class="description">Gostaria de solicitar a presença da policia militar no final da aula do período noturno no colégio Shalom, grande quantidade de pessoas usando substancias ilícitas.</p>
-                </div>
-            </div>
-
-            <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon-box">
-                    <div class="icon"><i class="bi bi-sign-stop-lights" style="color: #94c045;"></i></div>
-                    <h4 class="title"><a href="">#6634503 - Vías públicas </a></h4>
-                    <p class="description">Hoje pela manhã, enquanto caminhava pela minha rua, me deparei com um buraco na calçada que me chamou a atenção. Ele estava aberto, com cerca de um metro de diâmetro e meio metro de profundidade, e expunha canos e fios elétricos. Na rua João Anastácio no bairro glória.  </p>
-                </div>
-            </div>
-            <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon-box">
-                    <div class="icon"><i class="bi bi-sign-stop-lights" style="color: #94c045;"></i></div>
-                    <h4 class="title"><a href="">#6634504 - Vías públicas</a></h4>
-                    <p class="description">O número de carros tem aumentado muito nos últimos anos, mas a infraestrutura viária não acompanhou esse crescimento, o que tem gerado um trânsito cada vez mais congestionado e caótico.</p>
-                </div>
-            </div>
+            }
         </div>
 
     </div>
 </section>
+<!-- End Services Section -->
+
+@functions {
+    public static string GetReportIcon(int categoriaId)
+    {
+        switch (categoriaId)
+        {
+            case 4: return "bi-sign-stop-lights";
+            case 1: return "bi-lightbulb";
+            case 3: return "bi-bus-front";
+            case 2: return "bi-shield-lock";
+            default: return "";
+        }
+    }
+
+    public static string GetReportTypeDesc(int categoriaId)
+    {
+        switch (categoriaId)
+        {
+            case 4: return "Vías públicas";
+            case 1: return "Iluminação pública";
+            case 3: return "Transporte público";
+            case 2: return "Segurança pública";
+            default: return "";
+        }
+    }
+}
