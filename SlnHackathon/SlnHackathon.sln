@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Application.WEB", "src\Hackathon.Application.WEB\Hackathon.Application.WEB.csproj", "{FBE86119-3B1A-45BE-AC6B-0E0C256F1051}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackathon.Application.WEB", "src\Hackathon.Application.WEB\Hackathon.Application.WEB.csproj", "{FBE86119-3B1A-45BE-AC6B-0E0C256F1051}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Application.Service", "src\Hackathon.Application.Service\Hackathon.Application.Service.csproj", "{B18BA34A-F8D2-4D36-8891-1484B76EC8DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackathon.Application.Service", "src\Hackathon.Application.Service\Hackathon.Application.Service.csproj", "{B18BA34A-F8D2-4D36-8891-1484B76EC8DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Infra.Data", "src\Hackathon.Infra.Data\Hackathon.Infra.Data.csproj", "{26031815-130E-4DD8-BDC9-768E53DD82D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackathon.Infra.Data", "src\Hackathon.Infra.Data\Hackathon.Infra.Data.csproj", "{26031815-130E-4DD8-BDC9-768E53DD82D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Domain", "src\Hackathon.Domain\Hackathon.Domain.csproj", "{371CAB47-85BD-4F1E-8235-924556F3AD50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hackathon.Domain", "src\Hackathon.Domain\Hackathon.Domain.csproj", "{371CAB47-85BD-4F1E-8235-924556F3AD50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Application.Tests", "src\Hackathon.Application.Tests\Hackathon.Application.Tests.csproj", "{432B5FDE-7F2C-4C55-A93A-D8BB0943E69C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{371CAB47-85BD-4F1E-8235-924556F3AD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{371CAB47-85BD-4F1E-8235-924556F3AD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{371CAB47-85BD-4F1E-8235-924556F3AD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432B5FDE-7F2C-4C55-A93A-D8BB0943E69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432B5FDE-7F2C-4C55-A93A-D8BB0943E69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432B5FDE-7F2C-4C55-A93A-D8BB0943E69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432B5FDE-7F2C-4C55-A93A-D8BB0943E69C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
