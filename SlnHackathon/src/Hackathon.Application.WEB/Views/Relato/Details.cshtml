@@ -1,49 +1,61 @@
 ﻿@model Hackathon.Domain.DTOs.RelatoDTO
 @using Jmelosegui.Mvc.GoogleMap;
 @using System.Globalization;
-<hr />
-<hr />
-<hr />
-<hr />
-<div class="row">
-    <div>
-        <dl class="row">
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.categoria.descricao)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.categoria.descricao)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Address)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Address)
-            </dd>
-        </dl>
-        <form asp-action="Details">
+
+<!-- ======= Breadcrumbs ======= -->
+<section id="breadcrumbs" class="breadcrumbs">
+    <div class="breadcrumb-hero">
+    </div>
+    <div class="container">
+        <ol>
+            <li>
+                <a href="/Home/Index">Home</a>
+            </li>
+            <li>
+                Relatos
+            </li>
+        </ol>
+    </div>
+</section>
+<!-- End Breadcrumbs -->
+
+<section id="contact" class="contact">
+    <div class="container">
+        <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="row">
-                <input type="hidden" asp-for="id" value="@Model.id"/>
-                <input type="hidden" asp-for="categoriaId" value="@Model.categoriaId"/>
-                <input type="hidden" asp-for="relatorio" value="@Model.relatorio"/>
-                <input type="hidden" asp-for="rua" value="@Model.rua"/>
-                <input type="hidden" asp-for="bairro" value="@Model.bairro"/>
-                <input type="hidden" asp-for="estado" value="@Model.estado"/>
-                <input type="hidden" asp-for="cidade" value="@Model.cidade"/>
-                <input type="hidden" asp-for="cep" value="@Model.cep"/>
-                <input type="hidden" value="@Model.data" asp-for="data" />
-                <input type="hidden" id="likes" asp-for="contadorLikes" />
-                <input type="hidden" value="@Model.usuarioId" asp-for="usuarioId" />
-                <input type="hidden" value="@Model.status" asp-for="status" />
-            </div>
-           
+                <dt class="col-sm-2">
+                    @*@Html.DisplayNameFor(model => @Model.id)*@
+                    Nr. Protocolo:
 
-            <div class="form-group">
+                </dt>
+                <dd class="col-sm-5">
+                    @Html.DisplayFor(model => @Model.id)
+                </dd>
+
+              @*  <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => @Model.categoria)
+                </dt>
+                <dd class="col-sm-10">
+
+                    @Html.DisplayFor(model => @Model.categoria.descricao)
+                </dd>*@
+
+                <div class="form-group">
+                    <label class="control-label">Categoria </label>
+                    <select readonly asp-for="categoriaId" class="form-control" asp-items="ViewBag.categoriaId"></select>
+                </div>
+                <div class="form-group mt-3">
+                    <label asp-for="relatorio" class="control-label"></label>
+                    <textarea readonly  asp-for="relatorio" class="form-control"></textarea>
+                    <span asp-validation-for="relatorio" class="text-danger"></span>
+                </div>
+                  <div class="form-group mt-3 mb-3">
                 <label asp-for="Address" class="control-label"></label>
-                <input value="@Model.Address" type="text" asp-for="Address" class="form-control" />
+                    <input readonly  value="@Model.Address" type="text" asp-for="Address" class="form-control" />
                 <span asp-validation-for="Address" class="text-danger"></span>
             </div>
+
         <dt class="col-sm-10">
                 @(
                     Html.GoogleMap()
@@ -56,25 +68,47 @@
                     .Zoom(20)
                     )
         </dt>
-
-            <div class="form-group">
-                <input type="submit" value="Gostei" class="btn btn-success" />
-                <button class="btn btn-primary" asp-controller="Relato" asp-action="Index">Voltar</button>
             </div>
+      
         </form>
-    </div>
-</div>
+
+        <div>
+            <form asp-action="Details">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+                    <input type="hidden" asp-for="id" value="@Model.id" />
+                    <input type="hidden" asp-for="categoriaId" value="@Model.categoriaId" />
+                    <input type="hidden" asp-for="relatorio" value="@Model.relatorio" />
+                    <input type="hidden" asp-for="rua" value="@Model.rua" />
+                    <input type="hidden" asp-for="bairro" value="@Model.bairro" />
+                    <input type="hidden" asp-for="estado" value="@Model.estado" />
+                    <input type="hidden" asp-for="cidade" value="@Model.cidade" />
+                    <input type="hidden" asp-for="cep" value="@Model.cep" />
+                    <input type="hidden" value="@Model.data" asp-for="data" />
+                    <input type="hidden" id="likes" asp-for="contadorLikes" />
+                    <input type="hidden" value="@Model.usuarioId" asp-for="usuarioId" />
+                    <input type="hidden" value="@Model.status" asp-for="status" />
+                </div>
+
+                <div class="form-group mt-3 mb-3">
+                    <input type="submit" value="Gostei" class="btn btn-success" />
+                    <button class="btn btn-primary" asp-controller="Relato" asp-action="Index">Voltar</button>
+                </div>
+            </form>
+        </div>
+    </div> 
+</section>
 
 @section Scripts {
     @{
-        @(Html.GoogleMap().ScriptRegistrar())
+    @(Html.GoogleMap().ScriptRegistrar())
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
 
-        <script>
-            $(document).ready(function () {
-                $("#likes").val(@Model.contadorLikes + 1)
-            });
-        </script>
+    <script>
+                    $(document).ready(function () {
+                        $("#likes").val(@Model.contadorLikes + 1)
+                    });
+    </script>
     }
 
 
