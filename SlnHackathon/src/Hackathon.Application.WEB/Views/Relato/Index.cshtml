@@ -24,26 +24,46 @@
                         <h2 class="entry-title">
                             <a>Registros</a>
                         </h2>
-                        <div class="entry-content">
+                        @*<div class="entry-content">
                             <p class="container-fluid">
                                 <div class="row ">
-                                    <div class="col-lg-2">Nr. Protocolo</div>
-                                    <div class="col-lg-7">Relato</div>
-                                    <div class="col-lg-3">Apoiadores</div>
+                                    <div class="col-lg-2 border">Nr. Protocolo</div>
+                                    <div class="col-lg-7 border">Relato</div>
+                                    <div class="col-lg-3 border">Apoiadores</div>
                                 </div>
                                 @foreach (var item in Model)
                                 {
                                     <a asp-action="Details" asp-route-id="@item.id">
                                         <div class="row">
 
-                                            <div class="col-lg-2">@item.id</div>
-                                            <div class="col-lg-7">@item.relatorio</div>
-                                            <div class="col-lg-3">@item.contadorLikes</div>
+                                            <div class="col-lg-2 border">@item.id</div>
+                                            <div class="col-lg-7 border">@item.relatorio</div>
+                                            <div class="col-lg-3 border">@item.contadorLikes</div>
                                         </div>
                                     </a>
                                 }
                             </p>
-                        </div>
+                        </div>*@
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Nr. Protocolo</th>
+                                    <th scope="col">Relato</th>
+                                    <th scope="col">Apoiadores</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                 @foreach (var item in Model)
+                                {
+                                <tr>
+                                    <th scope="row"><a asp-action="Details" asp-route-id="@item.id">@item.id</a></th>
+                                    <td>@item.relatorio</td>
+                                    <td>@item.contadorLikes</td>
+                                </tr> 
+                                }
+                            </tbody>
+                        </table>
+
                     </article><!-- End blog entry -->
                 </div><!-- End blog entries list -->
             </div>
