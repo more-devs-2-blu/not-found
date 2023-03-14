@@ -32,6 +32,12 @@ namespace Hackathon.Application.WEB.Controllers
         {
             if (ModelState.IsValid)
             {
+                var username = Request.Cookies["user"];
+                string[] infosCookie = username.Split('&');
+                int userId = int.Parse(infosCookie[1]);
+
+                relato.usuarioId = userId;
+
                 if (await _service.Save(relato) > 0)
                     return RedirectToAction(nameof(Index));
             }

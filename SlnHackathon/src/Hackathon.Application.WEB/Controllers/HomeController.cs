@@ -43,31 +43,35 @@ namespace Hackathon.Application.WEB.Controllers
 			return View();
 		}
 
-        [HttpPost]
-        public JsonResult Login(string userName, string passWord)
+         [HttpPost]
+        public JsonResult Login(string email, string passWord)
         {
             var users = _userService.FindAll();
             
             var retSignIn = new ReturnJsonUser
             {
                 status = "error",
-                username = ""
             };
 
             foreach (var item in users)
             {
-                if (userName == item.nome && passWord == item.senha)
+                if (email == item.email && passWord == item.senha)
                 {
+                    CookieOptions ckOptions = new CookieOptions();
+                    ckOptions.Expires = DateTime.Now.AddMinutes(20);
+
+                    Response.Cookies.Append("user", $"{item.nome}&{item.id}", ckOptions);
+
                     retSignIn = new ReturnJsonUser
                     {
                         status = "success",
-                        username = item.nome
                     };
                     return Json(retSignIn);
                 }
             }
             return Json(retSignIn);
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 		public IActionResult Error()
