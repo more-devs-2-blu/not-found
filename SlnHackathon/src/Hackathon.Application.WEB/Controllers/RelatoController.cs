@@ -17,7 +17,8 @@ namespace Hackathon.Application.WEB.Controllers
 
         public async Task<IActionResult> Index()
         {
-            return View(_service.FindAll());
+            return View(_service.FindAll()
+                        .OrderByDescending(r => r.contadorLikes));
         }
 
         public async Task<IActionResult> Create()
