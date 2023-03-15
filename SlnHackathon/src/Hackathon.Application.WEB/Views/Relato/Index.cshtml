@@ -21,7 +21,7 @@
             <div class="row">
                 
                 <h2 class="entry-title section-title pt-5">
-                    <a class="text-justify">Relatos</a>
+                    <a class="text-justify">Relatos Enviados</a>
                 </h2>
                 <article class="entry">
                 <div class="col-lg-12 entries">
@@ -50,9 +50,9 @@
                         <table class="table table-striped">
                             <thead>
                                 <tr>
-                                    <th scope="col">Protocolo</th>
-                                    <th scope="col">Relato</th>
-                                    <th scope="col">Apoiadores</th>
+                                    <th scope="col" class="text-center">Protocolo</th>
+                                    <th scope="col" class="text-center">Relato</th>
+                                    <th scope="col" class="text-center">Apoiadores</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -60,8 +60,8 @@
                                 {
                                 <tr>
                                         <th scope="row" class="text-center"><a asp-action="Details" asp-route-id="@item.id">@item.id</a></th>
-                                    <td>@item.relatorio</td>
-                                    <td>@item.contadorLikes</td>
+                                        <td scope="row" class="text-center">@item.relatorio</td>
+                                        <td scope="row" class="text-center">@item.contadorLikes</td>
                                 </tr> 
                                 }
                             </tbody>
