@@ -9,10 +9,12 @@ namespace Hackathon.Application.WEB.Controllers
     {
         private readonly IRelatoService _service;
         private readonly ICategoriaService _serviceCategoria;
-        public RelatoController(IRelatoService service, ICategoriaService serviceCategoria)
+        private readonly IUsuarioService _serviceUsuario;
+        public RelatoController(IRelatoService service, ICategoriaService serviceCategoria, IUsuarioService serviceUsuario)
         {
             _service = service;
             _serviceCategoria = serviceCategoria;
+            _serviceUsuario = serviceUsuario;
         }
 
         public async Task<IActionResult> Index()
@@ -63,7 +65,10 @@ namespace Hackathon.Application.WEB.Controllers
             var relato = await _service.FindById(id);
 
             var categoria = _serviceCategoria.FindById(relato.categoriaId);
+            var usuario = _serviceUsuario.FindById(relato.usuarioId);
+
             ViewData["categoria"] = categoria.Result.descricao;
+            ViewData["usuario"] = usuario.Result.nome;
 
             return View(relato);
         }
