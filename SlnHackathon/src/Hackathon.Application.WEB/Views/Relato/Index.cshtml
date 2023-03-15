@@ -17,12 +17,16 @@
     <!-- ======= Blog Section ======= -->
     <section id="blog" class="blog">
         <div class="container" data-aos="fade-up">
+            
             <div class="row">
+                
+                <h2 class="entry-title section-title pt-5">
+                    <a class="text-justify">Relatos</a>
+                </h2>
+                <article class="entry">
                 <div class="col-lg-12 entries">
-                    <article class="entry">
-                        <h2 class="entry-title">
-                            <a>Relatos</a>
-                        </h2>
+                    
+                        
                         @*<div class="entry-content">
                             <p class="container-fluid">
                                 <div class="row ">
@@ -46,7 +50,7 @@
                         <table class="table table-striped">
                             <thead>
                                 <tr>
-                                    <th scope="col">Nr. Protocolo</th>
+                                    <th scope="col">Protocolo</th>
                                     <th scope="col">Relato</th>
                                     <th scope="col">Apoiadores</th>
                                 </tr>
@@ -55,7 +59,7 @@
                                  @foreach (var item in Model)
                                 {
                                 <tr>
-                                    <th scope="row"><a asp-action="Details" asp-route-id="@item.id">@item.id</a></th>
+                                        <th scope="row" class="text-center"><a asp-action="Details" asp-route-id="@item.id">@item.id</a></th>
                                     <td>@item.relatorio</td>
                                     <td>@item.contadorLikes</td>
                                 </tr> 
