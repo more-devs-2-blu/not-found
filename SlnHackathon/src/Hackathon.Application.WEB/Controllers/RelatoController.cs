@@ -52,7 +52,9 @@ namespace Hackathon.Application.WEB.Controllers
             if (id == null)
                 return NotFound();
             ViewData["categoriaId"] = new SelectList(_serviceCategoria.FindAll(), "id", "descricao");
-            return View(await _service.FindById(id));
+            //return View(await _service.FindById(id));
+            return View(_service.FindAll()
+                .FirstOrDefault(r => r.id == id));
         }
         [HttpPost]
         //public async Task<IActionResult> Details(int? id, [Bind("id, usuarioId, categoriaId, relatorio, rua, bairro, cep, imagem, cidade, estado, data, contadorLikes, status, Address")] RelatoDTO relato)
