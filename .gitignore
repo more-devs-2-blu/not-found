@@ -452,3 +452,5 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+/SlnHackathon/src/Hackathon.Application.WEB/mycity.db-wal
+/SlnHackathon/src/Hackathon.Application.WEB/mycity.db-shm

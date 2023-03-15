@@ -1,30 +1,44 @@
 ﻿$(document).ready(() => {
     login = () => {
-        let userForm = document.getElementById('username').value;
+        let emailForm = document.getElementById('email').value;
         let passwordForm = document.getElementById('password').value;
         $.ajax({
             url: '/Home/Login',
             method: 'POST',
             data: {
-                userName: userForm,
+                email: emailForm,
                 passWord: passwordForm
             },
             success: (resp) => {
                 if (resp.status == 'success') {
-                    var user = {
-                        userName: `${resp.username}`
-                    };
-                    sessionStorage.setItem('user', JSON.stringify(user));
-                    window.location.href = '/Home/Index';
+                    window.location.href = '/Relato/Create';
                 }
                 else {
-                    alert('erro de login');
+                    alert("Erro de login");
                     setTimeout(() => { window.location.reload(); }, 4000);
                 }
             }
         })
     };
+    logado();
 });
+
+$("#loginButton").on("click", function (e) {
+    e.preventDefault();
+    login();
+});
+
+logado = () => {
+    var user = Cookies.get('user');
+    if (user != null) {
+        const array = user.split('&');
+        console.log(array[0]);
+        let message = `Olá, ${array[0]}!`;
+        console.log(message);
+        $('#nomeUsuario').html(message);
+    }
+}
+
 
 /**
 * Template Name: Serenity
