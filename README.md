@@ -12,7 +12,8 @@ Desafio B: Como um cidadão pode ajudar na zeladoria pública de sua cidade?
 
 - [Proposta](#id01)
 - [Objetivos](#id01.1)
-- [Screenshots](#id02)
+- [Documentação](#id02)
+- [Screenshots](#id03)
 - [Feito com](#id04)
 - [Colaboradores](#id05)
 
@@ -39,13 +40,13 @@ Com a colaboração da comunidade, alguns pontos como os citados abaixo podem te
 - Campanhas de conscientização: campanhas educativas nas escolas e em espaços públicos, com o objetivo de conscientizar a população sobre a importância da zeladoria pública e da adoção de práticas sustentáveis.
 - Mutirões de limpeza: mutirões de limpeza em áreas públicas, como praças, parques e ruas, com a participação de voluntários e de grupos da sociedade civil.
 - Fiscalização: Serão realizadas ações de fiscalização para identificar e punir aqueles que cometem infrações de zeladoria pública, como jogar lixo em lugares inadequados.
-- Implantação de lixeiras inteligentes: lixeiras inteligentes em pontos estratégicos da cidade, com o objetivo de facilitar o descarte adequado do lixo e de evitar a poluição visual.
+- Implantação de lixeiras: lixeiras em pontos estratégicos da cidade, com o objetivo de facilitar o descarte adequado do lixo e de evitar a poluição visual.
 - Promoção da coleta seletiva: ações de promoção da coleta seletiva, com a instalação de pontos de coleta em diversos pontos da cidade e a divulgação de informações sobre a separação correta dos resíduos.
 - Adoção de práticas sustentáveis: ações de conscientização sobre a importância da adoção de práticas sustentáveis, como o uso de energia renovável e a redução do consumo de água e de energia elétrica.
 
 <br />
 
-# 📝 Documentação <a name="id06"></a>
+# 📝 Documentação <a name="id02"></a>
 
 <br />
 
@@ -54,7 +55,7 @@ Com a colaboração da comunidade, alguns pontos como os citados abaixo podem te
 
 <br />
 
-# :camera_flash: Screenshots <a name="id02"></a>
+# :camera_flash: Screenshots <a name="id03"></a>
 
 <br />
 
