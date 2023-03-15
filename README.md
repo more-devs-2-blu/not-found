@@ -1,5 +1,3 @@
-# not-found
-Desafio B: Como um cidadão pode ajudar na zeladoria pública de sua cidade?
 
 <p align="center">
   <image
@@ -7,13 +5,16 @@ Desafio B: Como um cidadão pode ajudar na zeladoria pública de sua cidade?
   />
 </p>
 
-# 📋 Indíce
+# Grupo not-found
+Desafio B: Como um cidadão pode ajudar na zeladoria pública de sua cidade?
+
+# 📋 Projeto - MyCity
 
 - [Proposta](#id01)
-  - [O desafio](#id01.1)
+- [Objetivos](#id01.1)
 - [Screenshots](#id02)
-- [Feito com](#id03)
-- [Colaboradores](#id04)
+- [Feito com](#id04)
+- [Colaboradores](#id05)
 
 # 🚀 Proposta <a name="id01"></a>
 
@@ -44,9 +45,17 @@ Com a colaboração da comunidade, alguns pontos como os citados abaixo podem te
 
 <br />
 
+# 📝 Documentação <a name="id06"></a>
+
+<br />
+
+- [Diagramas](https://github.com/more-devs-2-blu/not-found/tree/main/documenta%C3%A7%C3%B5es/Diagramas)
+- [Wireframe](https://github.com/more-devs-2-blu/not-found/tree/main/documenta%C3%A7%C3%B5es/WireFrame)
+
+<br />
+
 # :camera_flash: Screenshots <a name="id02"></a>
 
-- My Wireframe design: ![image](https://user-images.githubusercontent.com/77354425/225166757-e5633043-8763-4452-ad5d-9f7b51e3483a.png)
 <br />
 
 ## :desktop_computer: Desktop design
@@ -68,13 +77,13 @@ Com a colaboração da comunidade, alguns pontos como os citados abaixo podem te
 
 <br />
 
-# 😎 Colaboradores <a name="id04"></a>
+# :sunglasses: Colaboradores <a name="id05"></a>
 
 <br />
 
-- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E](https://www.linkedin.com/in/eduardocestari/)- Eduardo Augusto Cestari
-- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E](https://www.linkedin.com/in/gerson-gileade-bonetti/)- Gérson Gileade Bonetti
-- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E](https://www.linkedin.com/in/guilherme-rafael-zimermann-072825232/)- Guilherme R. Zimermann 
-- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E](https://www.linkedin.com/in/luiz-carlos-malicscki-34834a98/)- Luiz Carlos Malicscki 
-- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E](https://www.linkedin.com/in/mateus-eduardo-falk/)-  Mateus Eduardo Falk 
-- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E](https://www.linkedin.com/in/tcharles-maia/)- Tcharles da Maia -
+- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/eduardocestari/) - Eduardo Augusto Cestari  
+- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gerson-gileade-bonetti/) - Gérson Gileade Bonetti  
+- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/guilherme-rafael-zimermann-072825232/) - Guilherme R. Zimermann 
+- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luiz-carlos-malicscki-34834a98/) - Luiz Carlos Malicscki 
+- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mateus-eduardo-falk/) -  Mateus Eduardo Falk 
+- [<image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tcharles-maia/) - Tcharles da Maia
