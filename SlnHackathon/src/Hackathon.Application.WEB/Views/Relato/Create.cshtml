@@ -19,46 +19,62 @@
 </section>
 <!-- End Breadcrumbs -->
 
+<!-- End Breadcrumbs -->
+
 <section id="contact" class="contact">
     <div class="container">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="row">
-                <div class="form-group">
-                    <label asp-for="categoria" class="control-label"></label>
-                    <select asp-for="categoriaId" class="form-control" asp-items="ViewBag.categoriaId"></select>
-                </div>
-                <div class="form-group mt-3">
-                    <label asp-for="relatorio" class="control-label"></label>
-                    <textarea asp-for="relatorio" class="form-control"></textarea>
-                    <span asp-validation-for="relatorio" class="text-danger"></span>
-                </div>
+        <div class="form-group">
+              @using (Html.BeginForm("Create",
+                      "Relato",
+                      FormMethod.Post,
+                      new { enctype = "multipart/form-data" }))
+                        {       
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row">
+                            <div class="form-group">
+                                <label asp-for="categoria" class="control-label"></label>
+                                <select asp-for="categoriaId" class="form-control" asp-items="ViewBag.categoriaId"></select>
+                            </div>
+                            <div class="form-group mt-3">
+                                <label asp-for="relatorio" class="control-label"></label>
+                                <textarea asp-for="relatorio" class="form-control"></textarea>
+                                <span asp-validation-for="relatorio" class="text-danger"></span>
+                            </div>
 
-                <div class="form-group mt-3 mb-3">
-                    <label asp-for="Address" class="control-label"></label>
-                    <input type="text" id="address" asp-for="Address" class="form-control" />
-                    <span asp-validation-for="Address" class="text-danger"></span>
-                </div>
-                @(
-                    Html.GoogleMap()
-                    .Name("map")
-                    .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo")
-                    .Height(500)
-                    .Culture(CultureInfo.GetCultureInfo("pt-br"))
-                    .Libraries(new[] { "places" })
-                    .ClientEvents(events => events.OnMapLoaded("mapEvent"))
-                    .Center(c => c.UseCurrentPosition())
-                    )
+                    <div class="form-group mt-3">
+                        <input type="hidden" name="imagem" asp-for="id" id="imagem" />
+                        @*<label asp-for="imagem" class="control-label"></label>*@
+                        Imagem
+                        <input asp-for="imagem" type="file" name="imagemRelato" id="imagemRelato" class="form-control" />
+                    </div>
 
-                <input type="hidden" value="@DateTime.Now" asp-for="data" />
-                <input type="hidden" value="1" asp-for="contadorLikes" />
-                <input type="hidden" value="1" asp-for="usuarioId" />
-                <input type="hidden" value="Novo" asp-for="status" />
-            </div>
-            <div class="form-group mt-3">
-                <input type="submit" value="Enviar" class="btn btn-primary" />
-            </div>
-        </form>
+                                                                       
+                            <div class="form-group mt-3 mb-3">
+                                <label asp-for="Address" class="control-label"></label>
+                                <input type="text" id="address" asp-for="Address" class="form-control" />
+                                <span asp-validation-for="Address" class="text-danger"></span>
+                            </div>
+                            @(
+                                Html.GoogleMap()
+                                .Name("map")
+                                .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo")
+                                .Height(500)
+                                .Culture(CultureInfo.GetCultureInfo("pt-br"))
+                                .Libraries(new[] { "places" })
+                                .ClientEvents(events => events.OnMapLoaded("mapEvent"))
+                                .Center(c => c.UseCurrentPosition())
+                                )
+
+                            <input type="hidden" value="@DateTime.Now" asp-for="data" />
+                            <input type="hidden" value="1" asp-for="contadorLikes" />
+                            <input type="hidden" value="1" asp-for="usuarioId" />
+                            <input type="hidden" value="Novo" asp-for="status" />
+                        </div>
+                        <div class="form-group mt-3">
+                            <input type="submit" value="Enviar" class="btn bg-verde" />
+                        </div>
+                      }
+        </div>
     </div>
 </section>
 

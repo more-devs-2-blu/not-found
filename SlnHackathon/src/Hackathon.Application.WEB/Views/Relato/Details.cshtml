@@ -24,52 +24,72 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="row">
-                <dt class="col-sm-2">
-                    @*@Html.DisplayNameFor(model => @Model.id)*@
+                <dt class="col-sm-3 pb-2">
                     Nr. Protocolo:
-
                 </dt>
-                <dd class="col-sm-5">
+                <dd class="col-sm-8 pb-2">
                     @Html.DisplayFor(model => @Model.id)
                 </dd>
-
-              @*  <dt class="col-sm-2">
-                    @Html.DisplayNameFor(model => @Model.categoria)
+            </div>
+            <div class="row">
+                <dt class="col-sm-3 pb-2">
+                    Categoria
                 </dt>
-                <dd class="col-sm-10">
+                <dd class="col-sm-8 pb-2">
+                    @ViewData["categoria"]
+                </dd>
+                <dt class="col-sm-3 pb-2">
+                    Apoiadores
+                </dt>
+                <dd class="col-sm-8 pb-2">
 
-                    @Html.DisplayFor(model => @Model.categoria.descricao)
-                </dd>*@
+                    @Html.DisplayFor(model => @Model.contadorLikes)
+                </dd>
+                <dt class="col-sm-3 pb-2">
+                    Data
+                </dt>
+                <dd class="col-sm-8 pb-2">
 
-                <div class="form-group">
-                    <label class="control-label">Categoria </label>
-                    <select readonly asp-for="categoriaId" class="form-control" asp-items="ViewBag.categoriaId"></select>
+                    @Html.DisplayFor(model => @Model.data)
+                </dd>
+
+                <dt class="col-sm-3 pb-2">
+                    Usuário
+                </dt>
+                <dd class="col-sm-8 pb-2">
+
+                    @ViewData["usuario"]
+                </dd>
+                <dt class="col-sm-3 pb-2">
+                    Relato
+                </dt>
+                <dd class="col-sm-8 pb-2">
+
+                    @Html.DisplayFor(model => @Model.relatorio)
+                </dd>
+                <dt class="col-sm-3 pb-2">
+                    Endereço
+                </dt>
+                <dd class="col-sm-8 pb-2">
+
+                    @Html.DisplayFor(model => @Model.Address)
+                </dd>
+                <div class="form-group mt-3 mb-3">
                 </div>
-                <div class="form-group mt-3">
-                    <label asp-for="relatorio" class="control-label"></label>
-                    <textarea readonly  asp-for="relatorio" class="form-control"></textarea>
-                    <span asp-validation-for="relatorio" class="text-danger"></span>
-                </div>
-                  <div class="form-group mt-3 mb-3">
-                <label asp-for="Address" class="control-label"></label>
-                    <input readonly  value="@Model.Address" type="text" asp-for="Address" class="form-control" />
-                <span asp-validation-for="Address" class="text-danger"></span>
+                <dt class="col-sm-10">
+                    @(
+                        Html.GoogleMap()
+                        .Name("map")
+                        .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo")
+                        .Height(500)
+                        .Culture(CultureInfo.GetCultureInfo("pt-br"))
+                        .Center(c => c.Address(@Model.Address))
+                        .Markers(m => m.Add())
+                        .Zoom(20)
+                        )
+                </dt>
             </div>
 
-        <dt class="col-sm-10">
-                @(
-                    Html.GoogleMap()
-                    .Name("map")
-                    .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo")
-                    .Height(500)
-                    .Culture(CultureInfo.GetCultureInfo("pt-br"))
-                    .Center(c => c.Address(@Model.Address))
-                    .Markers(m => m.Add())
-                    .Zoom(20)
-                    )
-        </dt>
-            </div>
-      
         </form>
 
         <div>
@@ -92,28 +112,23 @@
                 </div>
 
                 <div class="form-group mt-3 mb-3">
-                    <input type="submit" value="Gostei" class="btn btn-success" />
-                    <button class="btn btn-primary" asp-controller="Relato" asp-action="Index">Voltar</button>
+                    <input type="submit" value="Gostei" class="btn bg-verde" />
+                    <button class="btn bg-verde" asp-controller="Relato" asp-action="Index">Voltar</button>
                 </div>
             </form>
         </div>
-    </div> 
+    </div>
 </section>
 
 @section Scripts {
     @{
-    @(Html.GoogleMap().ScriptRegistrar())
+        @(Html.GoogleMap().ScriptRegistrar())
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
 
-    <script>
-                    $(document).ready(function () {
-                        $("#likes").val(@Model.contadorLikes + 1)
-                    });
-    </script>
+        <script>
+            $(document).ready(function () {
+                $("#likes").val(@Model.contadorLikes + 1)
+            });
+        </script>
     }
-
-
 }
-
-
-

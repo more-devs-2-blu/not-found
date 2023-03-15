@@ -23,7 +23,12 @@ namespace Hackathon.Application.WEB.Controllers
 			{
                 if (await _userService.Save(user) > 0)
                 {
-                    return Redirect("/Home/Index");
+                    CookieOptions ckOptions = new CookieOptions();
+                    ckOptions.Expires = DateTime.Now.AddMinutes(20);
+
+                    Response.Cookies.Append("user", $"{user.nome}&{user.id}", ckOptions);
+
+                    return Redirect("/Relato/Create");
                 }
             }
 
