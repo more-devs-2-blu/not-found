@@ -4,6 +4,7 @@ using Hackathon.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -30,7 +31,8 @@ namespace Hackathon.Tests.EntityTests
                 imagem = "Imagem Teste",
                 data = DateTime.Now,
                 contadorLikes = 0,
-                status = StatusEnum.Novo
+                status = StatusEnum.Novo,
+                Address = "Novo endereço"
             };
 
             // Act
@@ -50,6 +52,7 @@ namespace Hackathon.Tests.EntityTests
             Assert.AreEqual(relatoDTO.data, relato.Data);
             Assert.AreEqual(0, relato.ContadorLikes);
             Assert.AreEqual(StatusEnum.Novo, relato.Status);
+            Assert.AreEqual("Novo endereço", relato.Address);
         }
 
         [Test]
@@ -70,7 +73,8 @@ namespace Hackathon.Tests.EntityTests
                 Imagem = "Imagem Teste",
                 Data = DateTime.Now,
                 ContadorLikes = 0,
-                Status = StatusEnum.Novo
+                Status = StatusEnum.Novo,
+                Address = "Novo endereço"
             };
 
             // Act
@@ -89,6 +93,7 @@ namespace Hackathon.Tests.EntityTests
             Assert.AreEqual("Imagem Teste", relatoDTO.imagem);
             Assert.AreEqual(0, relatoDTO.contadorLikes);
             Assert.AreEqual(StatusEnum.Novo, relatoDTO.status);
+            Assert.AreEqual("Novo endereço", relatoDTO.Address);
         }
     }
 }

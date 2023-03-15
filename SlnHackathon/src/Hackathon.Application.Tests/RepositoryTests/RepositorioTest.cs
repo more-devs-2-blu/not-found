@@ -48,7 +48,8 @@ namespace Hackathon.Tests.RepositoryTests
                 Imagem = "teste img",
                 Data = new DateTime(2023, 03, 11),
                 ContadorLikes = 3,
-                Status = 0
+                Status = 0,
+                Address = "Endereço teste"
             };
             var usuario = new Usuario
             {
@@ -95,7 +96,8 @@ namespace Hackathon.Tests.RepositoryTests
                 Imagem = "teste img",
                 Data = new DateTime(2023, 03, 11),
                 ContadorLikes = 3,
-                Status = Domain.Enums.StatusEnum.Novo
+                Status = Domain.Enums.StatusEnum.Novo,
+                Address = "Endereço teste"
             };
             var usuario = new Usuario
             {
@@ -124,6 +126,7 @@ namespace Hackathon.Tests.RepositoryTests
             relato.Data = new DateTime(2023, 03, 17);
             relato.ContadorLikes = 5;
             relato.Status = Domain.Enums.StatusEnum.Andamento;
+            relato.Address = "Endereço teste";
 
 
             await _categoriaRepository.Update(categoria);
@@ -149,6 +152,7 @@ namespace Hackathon.Tests.RepositoryTests
             Assert.AreEqual(relato.Data, relatoAtualizado.Data);
             Assert.AreEqual(relato.ContadorLikes, relatoAtualizado.ContadorLikes);
             Assert.AreEqual(relato.Status, relatoAtualizado.Status);
+            Assert.AreEqual(relato.Address, relatoAtualizado.Address);
         }
 
         [Test]
@@ -169,7 +173,8 @@ namespace Hackathon.Tests.RepositoryTests
                 Imagem = "teste img",
                 Data = new DateTime(2023, 03, 11),
                 ContadorLikes = 3,
-                Status = Domain.Enums.StatusEnum.Novo
+                Status = Domain.Enums.StatusEnum.Novo,
+                Address = "Endereço teste"
             };
             var usuario = new Usuario
             {
@@ -212,7 +217,8 @@ namespace Hackathon.Tests.RepositoryTests
                 Imagem = "teste img",
                 Data = new DateTime(2023, 03, 11),
                 ContadorLikes = 3,
-                Status = Domain.Enums.StatusEnum.Novo
+                Status = Domain.Enums.StatusEnum.Novo,
+                Address = "Endereço teste"
             };
             var usuario = new Usuario
             {
@@ -259,7 +265,8 @@ namespace Hackathon.Tests.RepositoryTests
                 Imagem = "teste img",
                 Data = new DateTime(2023, 03, 11),
                 ContadorLikes = 3,
-                Status = Domain.Enums.StatusEnum.Novo
+                Status = Domain.Enums.StatusEnum.Novo,
+                Address = "Endereço teste"
             };
             var usuario = new Usuario
             {
@@ -283,7 +290,8 @@ namespace Hackathon.Tests.RepositoryTests
                 Imagem = "teste img",
                 Data = new DateTime(2023, 03, 11),
                 ContadorLikes = 3,
-                Status = Domain.Enums.StatusEnum.Novo
+                Status = Domain.Enums.StatusEnum.Novo,
+                Address = "Endereço teste"
             };
             var usuario1 = new Usuario
             {
