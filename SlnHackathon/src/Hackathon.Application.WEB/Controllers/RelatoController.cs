@@ -17,12 +17,21 @@ namespace Hackathon.Application.WEB.Controllers
             _serviceUsuario = serviceUsuario;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int? categoria)
         {
-            return View(_service.FindAll()
-                        .OrderByDescending(r => r.contadorLikes));
-        }
+            if (categoria == null)
+            {
+                return View(_service.FindAll()
+                .OrderByDescending(r => r.contadorLikes));
 
+            }
+            else
+            {
+                return View(_service.FindAll()
+                    .Where(r => r.categoriaId == categoria)
+                    .OrderByDescending(r => r.contadorLikes));
+            }
+        }
         public async Task<IActionResult> Create()
         {
             ViewData["categoriaId"] = new SelectList(_serviceCategoria.FindAll(), "id", "descricao");
