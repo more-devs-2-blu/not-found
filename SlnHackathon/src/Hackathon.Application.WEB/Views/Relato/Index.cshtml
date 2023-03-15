@@ -1,7 +1,6 @@
 ﻿@model IEnumerable<Hackathon.Domain.DTOs.RelatoDTO>
 
 <main id="main">
-    <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="breadcrumb-hero">
             <div class="container">
@@ -13,40 +12,31 @@
             <ol>
             </ol>
         </div>
-    </section><!-- End Breadcrumbs -->
-    <!-- ======= Blog Section ======= -->
+    </section>
     <section id="blog" class="blog">
         <div class="container" data-aos="fade-up">
-            
             <div class="row">
-                
-                <h2 class="entry-title section-title pt-5">
-                    <a class="text-justify">Relatos Enviados</a>
-                </h2>
-                <article class="entry">
-                <div class="col-lg-12 entries">
-                    
-                        
-                        @*<div class="entry-content">
-                            <p class="container-fluid">
-                                <div class="row ">
-                                    <div class="col-lg-2 border">Nr. Protocolo</div>
-                                    <div class="col-lg-7 border">Relato</div>
-                                    <div class="col-lg-3 border">Apoiadores</div>
-                                </div>
-                                @foreach (var item in Model)
-                                {
-                                    <a asp-action="Details" asp-route-id="@item.id">
-                                        <div class="row">
 
-                                            <div class="col-lg-2 border">@item.id</div>
-                                            <div class="col-lg-7 border">@item.relatorio</div>
-                                            <div class="col-lg-3 border">@item.contadorLikes</div>
-                                        </div>
-                                    </a>
-                                }
-                            </p>
-                        </div>*@
+                <div class="col-lg-4">
+                    <div class="sidebar">
+                        <h3 class="sidebar-title">Categorias</h3>
+                        <div class="sidebar-item categories">
+                            <ul>
+                                <li><a href="Index?categoria=1">Iluminação Pública</a></li>
+                                <li><a href="Index?categoria=2">Segurança Pública</a></li>
+                                <li><a href="Index?categoria=3">Transporte Público</a></li>
+                                <li><a href="Index?categoria=4">Vias Públicas</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+               <div class="col-lg-8 entries">
+                <article class="entry">
+                    <h2 class="entry-title section-title pt-5">
+                        <a class="text-justify">Relatos Enviados</a>
+                    </h2>
                         <table class="table table-striped">
                             <thead>
                                 <tr>
@@ -66,73 +56,13 @@
                                 }
                             </tbody>
                         </table>
+                </article>
+               </div>
 
-                    </article><!-- End blog entry -->
-                </div><!-- End blog entries list -->
+
             </div>
+
         </div>
-    </section><!-- End Blog Section -->
+    </section>
 
 </main>
-@*teste add teste eduardo*@
-@*TEste tcharles*@
-@* <div class="col-lg-4">
-                        <div class="sidebar">
-                            <h3 class="sidebar-title">Busca protocolo</h3>
-                            <div class="sidebar-item search-form">
-                                <form action="">
-                                    <input type="text">
-                                    <button type="submit"><i class="bi bi-search"></i></button>
-                                </form>
-                            </div><!-- End sidebar search formn-->
-                            <h3 class="sidebar-title">Categories</h3>
-                            <div class="sidebar-item categories">
-                                <ul>
-                                    <li><a href="#">Segurança Pública <span>(25)</span></a></li>
-                                    <li><a href="#">Transporte Público <span>(12)</span></a></li>
-                                    <li><a href="#">Iluminação Pública <span>(5)</span></a></li>
-                                    <li><a href="#">Segurança Pública <span>(22)</span></a></li>
-                                </ul>
-                            </div><!-- End sidebar categories-->
-
-                            <h3 class="sidebar-title">Registros Recentes</h3>
-                            <div class="sidebar-item recent-posts">
-                                <div class="post-item clearfix">
-                                    <img src="assets/img/blog/blog-recent-1.jpg" alt="">
-                                    <h4><a href="blog-single.html">A linha 10 necessita de mais onibus</a></h4>
-                                    <time datetime="2020-01-01">Março 1, 2023</time>
-                                </div>
-
-                                <div class="post-item clearfix">
-                                    <img src="assets/img/blog/blog-recent-1.jpg" alt="">
-                                    <h4><a href="blog-single.html">Gostaria de relatar que na rua nazaré do bairro gloria e...</a></h4>
-                                    <time datetime="2020-01-01">Março 3, 2023</time>
-                                </div>
-
-                                <div class="post-item clearfix">
-                                    <img src="assets/img/blog/blog-recent-1.jpg" alt="">
-                                    <h4><a href="blog-single.html">A rua Imperatriz Leopoldina no bairro Velha está cheia de buracos...</a></h4>
-                                    <time datetime="2020-01-01">Março 5, 2023</time>
-                                </div>
-
-                                <div class="post-item clearfix">
-                                    <img src="assets/img/blog/blog-recent-1.jpg" alt="">
-                                    <h4><a href="blog-single.html">Gostaria de solicitar a presença da policia militar no final da aula do período noturno no colégio...</a></h4>
-                                    <time datetime="2020-01-01">Março 6, 2023</time>
-                                </div>
-
-                                <div class="post-item clearfix">
-                                    <img src="assets/img/blog/blog-recent-1.jpg" alt="">
-                                    <h4><a href="blog-single.html">Na rua das nações pela altura do numero 230 está com uma quantidade de buracos...</a></h4>
-                                    <time datetime="2020-01-01">Março 7, 2023</time>
-                                </div>
-
-                            </div><!-- End sidebar recent posts-->
-
-                        </div><!-- End sidebar tags-->
-
-                    </div><!-- End sidebar -->
-
-                <!-- End blog sidebar -->*@
-<!-- End #main -->
-<!-- ======= Footer ======= -->
