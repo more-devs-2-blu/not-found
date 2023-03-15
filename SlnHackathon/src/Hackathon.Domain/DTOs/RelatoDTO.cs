@@ -25,7 +25,8 @@ namespace Hackathon.Domain.DTOs
 		public string? estado { get; set; }
 		public string? cidade { get; set; }
 		public string? imagem { get; set; }
-		public DateTime data { get; set; }
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yy HH:mm}")]
+        public DateTime data { get; set; }
 		public int contadorLikes { get; set; }
 		public StatusEnum status { get; set; }
 

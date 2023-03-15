@@ -25,7 +25,7 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="row">
                 <dt class="col-sm-2">
-                    @*@Html.DisplayNameFor(model => @Model.id)*@
+                   
                     Nr. Protocolo:
 
                 </dt>
@@ -33,18 +33,28 @@
                     @Html.DisplayFor(model => @Model.id)
                 </dd>
 
-              @*  <dt class="col-sm-2">
-                    @Html.DisplayNameFor(model => @Model.categoria)
+               <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => Model.categoria)
                 </dt>
                 <dd class="col-sm-10">
 
-                    @Html.DisplayFor(model => @Model.categoria.descricao)
-                </dd>*@
+                    @ViewData["categoria"]
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => @Model.contadorLikes)
+                </dt>
+                <dd class="col-sm-10">
 
-                <div class="form-group">
-                    <label class="control-label">Categoria </label>
-                    <select readonly asp-for="categoriaId" class="form-control" asp-items="ViewBag.categoriaId"></select>
-                </div>
+                    @Html.DisplayFor(model => @Model.contadorLikes)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => @Model.data)
+                </dt>
+                <dd class="col-sm-10">
+
+                    @Html.DisplayFor(model => @Model.data)
+                </dd>
+
                 <div class="form-group mt-3">
                     <label asp-for="relatorio" class="control-label"></label>
                     <textarea readonly  asp-for="relatorio" class="form-control"></textarea>
