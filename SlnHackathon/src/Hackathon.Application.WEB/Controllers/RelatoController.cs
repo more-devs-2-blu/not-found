@@ -38,16 +38,21 @@ namespace Hackathon.Application.WEB.Controllers
                 var username = Request.Cookies["user"];
                 string[] infosCookie = username.Split('&');
                 int userId = int.Parse(infosCookie[1]);
-                var file = imagemRelato.FirstOrDefault();
-                var fileName = $"{file.FileName}";
-                relato.imagem = fileName;
                 relato.usuarioId = userId;
 
-                if (await _service.Save(relato) > 0) { 
+                if (imagemRelato.Count != 0) { 
+                    var file = imagemRelato.FirstOrDefault();
+                    var fileName = $"{file.FileName}";
+                    relato.imagem = fileName;
                     string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot//img", fileName);
                     var stream = new FileStream(path, FileMode.Create);
                     file.CopyToAsync(stream);
 
+                }
+
+
+                if (await _service.Save(relato) > 0) { 
+                    
                 return RedirectToAction(nameof(Index));
                 }
             }
