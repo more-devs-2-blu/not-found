@@ -28,6 +28,11 @@ $("#loginButton").on("click", function (e) {
     login();
 });
 
+$("#ifLogged").on("click", function (e) {
+    e.preventDefault();
+    logout();
+});
+
 logado = () => {
     var user = Cookies.get('user');
     if (user != null) {
@@ -36,8 +41,15 @@ logado = () => {
         let message = `Olá, ${array[0]}!`;
         console.log(message);
         $('#nomeUsuario').html(message);
+    } else {
+        $('#ifLogged').hide();
     }
-}
+};
+
+logout = () => {
+    Cookies.remove('user');
+    window.location.href = "/";
+};
 
 
 /**
