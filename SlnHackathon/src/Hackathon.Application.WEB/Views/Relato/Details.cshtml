@@ -1,134 +1,115 @@
-﻿@model Hackathon.Domain.DTOs.RelatoDTO
-@using Jmelosegui.Mvc.GoogleMap;
+﻿@model Hackathon.Domain.DTOs.RelatoDTO 
+@using Jmelosegui.Mvc.GoogleMap; 
 @using System.Globalization;
 
 <!-- ======= Breadcrumbs ======= -->
 <section id="breadcrumbs" class="breadcrumbs">
-    <div class="breadcrumb-hero">
-    </div>
-    <div class="container">
-        <ol>
-            <li>
-                <a href="/Home/Index">Home</a>
-            </li>
-            <li>
-                Relatos
-            </li>
-        </ol>
-    </div>
+  <div class="breadcrumb-hero"></div>
+  <div class="container">
+    <ol>
+      <li>
+        <a href="/Home/Index">Home</a>
+      </li>
+      <li>Relatos</li>
+    </ol>
+  </div>
 </section>
 <!-- End Breadcrumbs -->
 
 <section id="contact" class="contact">
-    <div class="container">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="row">
-                <dt class="col-sm-3 pb-2">
-                    Nr. Protocolo:
-                </dt>
+  <div class="container">
+    <form asp-action="Create">
+      <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+      <div class="container" style="">
+        <div class="row">
+          <div class="container col" style="float: left; width: 50%">
+            <div class="container" style="display: flex">
+              <div class="row">
+                <dt class="col-sm-3 pb-2">Nr. Protocolo:</dt>
                 <dd class="col-sm-8 pb-2">
                     @Html.DisplayFor(model => @Model.id)
                 </dd>
+                <dt class="col-sm-3 pb-2">Categoria</dt>
+                <dd class="col-sm-8 pb-2">@ViewData["categoria"]</dd>
+                <dt class="col-sm-3 pb-2">Apoiadores</dt>
+                <dd class="col-sm-8 pb-2">
+                  @Html.DisplayFor(model => @Model.contadorLikes)
+                </dd>
+                <dt class="col-sm-3 pb-2">Data</dt>
+                <dd class="col-sm-8 pb-2">
+                  @Html.DisplayFor(model => @Model.data)
+                </dd>
+                <dt class="col-sm-3 pb-2">Usuário</dt>
+                <dd class="col-sm-8 pb-2">@ViewData["usuario"]</dd>
+                <dt class="col-sm-3 pb-2">Relato</dt>
+                <dd class="col-sm-8 pb-2">
+                  @Html.DisplayFor(model => @Model.relatorio)
+                </dd>
+                <dt class="col-sm-3 pb-2">Endereço</dt>
+                <dd class="col-sm-8 pb-2">@Html.DisplayFor(model => @Model.Address)</dd>
+              </div>
             </div>
-            <div class="row">
-                <dt class="col-sm-3 pb-2">
-                    Categoria
-                </dt>
-                <dd class="col-sm-8 pb-2">
-                    @ViewData["categoria"]
-                </dd>
-                <dt class="col-sm-3 pb-2">
-                    Apoiadores
-                </dt>
-                <dd class="col-sm-8 pb-2">
-
-                    @Html.DisplayFor(model => @Model.contadorLikes)
-                </dd>
-                <dt class="col-sm-3 pb-2">
-                    Data
-                </dt>
-                <dd class="col-sm-8 pb-2">
-
-                    @Html.DisplayFor(model => @Model.data)
-                </dd>
-
-                <dt class="col-sm-3 pb-2">
-                    Usuário
-                </dt>
-                <dd class="col-sm-8 pb-2">
-
-                    @ViewData["usuario"]
-                </dd>
-                <dt class="col-sm-3 pb-2">
-                    Relato
-                </dt>
-                <dd class="col-sm-8 pb-2">
-
-                    @Html.DisplayFor(model => @Model.relatorio)
-                </dd>
-                <dt class="col-sm-3 pb-2">
-                    Endereço
-                </dt>
-                <dd class="col-sm-8 pb-2">
-
-                    @Html.DisplayFor(model => @Model.Address)
-                </dd>
-                <div class="form-group mt-3 mb-3">
-                </div>
-                <dt class="col-sm-10">
-                    @(
-                        Html.GoogleMap()
-                        .Name("map")
-                        .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo")
-                        .Height(500)
-                        .Culture(CultureInfo.GetCultureInfo("pt-br"))
-                        .Center(c => c.Address(@Model.Address))
-                        .Markers(m => m.Add())
-                        .Zoom(20)
-                        )
-                </dt>
-            </div>
-
-        </form>
-
-        <div>
-            <form asp-action="Details">
-                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-                <div class="row">
-                    <input type="hidden" asp-for="id" value="@Model.id" />
-                    <input type="hidden" asp-for="categoriaId" value="@Model.categoriaId" />
-                    <input type="hidden" asp-for="relatorio" value="@Model.relatorio" />
-                    <input type="hidden" asp-for="rua" value="@Model.rua" />
-                    <input type="hidden" asp-for="bairro" value="@Model.bairro" />
-                    <input type="hidden" asp-for="estado" value="@Model.estado" />
-                    <input type="hidden" asp-for="cidade" value="@Model.cidade" />
-                    <input type="hidden" asp-for="cep" value="@Model.cep" />
-                    <input type="hidden" value="@Model.data" asp-for="data" />
-                    <input type="hidden" id="likes" asp-for="contadorLikes" />
-                    <input type="hidden" value="@Model.usuarioId" asp-for="usuarioId" />
-                    <input type="hidden" value="@Model.status" asp-for="status" />
-                    <input type="hidden" value="@Model.Address" asp-for="Address" />
-                </div>
-
-                <div class="form-group mt-3 mb-3">
-                    <input type="submit" value="Gostei" class="btn bg-verde" />
-                    <button class="btn bg-verde" asp-controller="Relato" asp-action="Index">Voltar</button>
-                </div>
-            </form>
+          </div>
+          <div class="container col d-flex justify-content-center">
+            <figure class="col-md-4">
+              <img src="~/img/@Model.imagem" style="width: 200px" />
+            </figure>
+          </div>
         </div>
+        <div class="form-group mt-3 mb-3"></div>
+        <dt class="col-sm-10">
+          @( Html.GoogleMap() .Name("map")
+          .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo") .Height(500)
+          .Culture(CultureInfo.GetCultureInfo("pt-br")) .Center(c =>
+          c.Address(@Model.Address)) .Markers(m => m.Add()) .Zoom(20) )
+        </dt>
+      </div>
+    </form>
+
+    <div>
+      <form asp-action="Details">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="row">
+          <input type="hidden" asp-for="id" value="@Model.id" />
+          <input
+            type="hidden"
+            asp-for="categoriaId"
+            value="@Model.categoriaId"
+          />
+          <input type="hidden" asp-for="relatorio" value="@Model.relatorio" />
+          <input type="hidden" asp-for="rua" value="@Model.rua" />
+          <input type="hidden" asp-for="bairro" value="@Model.bairro" />
+          <input type="hidden" asp-for="estado" value="@Model.estado" />
+          <input type="hidden" asp-for="cidade" value="@Model.cidade" />
+          <input type="hidden" asp-for="cep" value="@Model.cep" />
+          <input type="hidden" value="@Model.data" asp-for="data" />
+          <input type="hidden" id="likes" asp-for="contadorLikes" />
+          <input type="hidden" value="@Model.usuarioId" asp-for="usuarioId" />
+          <input type="hidden" value="@Model.status" asp-for="status" />
+          <input type="hidden" value="@Model.Address" asp-for="Address" />
+        </div>
+
+        <div class="form-group mt-3 mb-3">
+          <input type="submit" value="Gostei" class="btn bg-verde" />
+          <button
+            class="btn bg-verde"
+            asp-controller="Relato"
+            asp-action="Index"
+          >
+            Voltar
+          </button>
+        </div>
+      </form>
     </div>
+  </div>
 </section>
 
-@section Scripts {
-    @{
-        @(Html.GoogleMap().ScriptRegistrar())
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+@section Scripts { @{ @(Html.GoogleMap().ScriptRegistrar()) await
+Html.RenderPartialAsync("_ValidationScriptsPartial");
 
-        <script>
-            $(document).ready(function () {
-                $("#likes").val(@Model.contadorLikes + 1)
-            });
-        </script>
-    }
-}
+<script>
+  $(document).ready(function () {
+      $("#likes").val(@Model.contadorLikes + 1)
+  });
+</script>
+} }
