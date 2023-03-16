@@ -68,12 +68,12 @@ namespace Hackathon.Domain.DTOs
 				usuarioId = relato.UsuarioId,
 				categoriaId = relato.CategoriaId,
 				relatorio = relato.Relatorio,
-				/*rua = relato.Rua,
-				bairro = relato.Bairro,
-				cep = relato.CEP,*/
+				rua = relato.Rua ?? "",
+				bairro = relato.Bairro ?? "",
+				cep = relato.CEP ?? "",
 				imagem = relato.Imagem,
-				/*estado = relato.Estado,
-				cidade = relato.Cidade,*/
+				estado = relato.Estado ?? "",
+				cidade = relato.Cidade ?? "",
 				data = relato.Data,
 				contadorLikes = relato.ContadorLikes,
 				status = relato.Status,

@@ -40,7 +40,12 @@ namespace Hackathon.Application.WEB.Controllers
 
 		public IActionResult Login()
 		{
-			return View();
+            var username = Request.Cookies["user"];
+            if (username != null)
+            {
+                return Redirect("/Relato/Create");
+            }
+            return View();
 		}
 
          [HttpPost]
