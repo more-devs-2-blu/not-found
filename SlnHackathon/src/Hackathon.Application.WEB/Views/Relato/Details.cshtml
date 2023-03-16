@@ -4,16 +4,13 @@
 
 <!-- ======= Breadcrumbs ======= -->
 <section id="breadcrumbs" class="breadcrumbs">
-    <div class="breadcrumb-hero">
-    </div>
+    <div class="breadcrumb-hero"></div>
     <div class="container">
         <ol>
             <li>
                 <a href="/Home/Index">Home</a>
             </li>
-            <li>
-                Relatos
-            </li>
+            <li>Relatos</li>
         </ol>
     </div>
 </section>
@@ -24,85 +21,49 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="container" style="">
-                <div class="container" style="float: left; width: 50%">
-                    <div class="row">
-                        <dt class="col-sm-3 pb-2">
-                            Nr. Protocolo:
-                        </dt>
-                        <dd class="col-sm-8 pb-2">
-                            @Html.DisplayFor(model => @Model.id)
-                        </dd>
-                    </div>
-                    <div class="container" style="display: flex">
-                        <div class="row">
-                            <dt class="col-sm-3 pb-2">
-                                Categoria
-                            </dt>
-                            <dd class="col-sm-8 pb-2">
-                                @ViewData["categoria"]
-                            </dd>
-                            <dt class="col-sm-3 pb-2">
-                                Apoiadores
-                            </dt>
-                            <dd class="col-sm-8 pb-2">
-
-                                @Html.DisplayFor(model => @Model.contadorLikes)
-                            </dd>
-                            <dt class="col-sm-3 pb-2">
-                                Data
-                            </dt>
-                            <dd class="col-sm-8 pb-2">
-
-                                @Html.DisplayFor(model => @Model.data)
-                            </dd>
-
-                            <dt class="col-sm-3 pb-2">
-                                Usuário
-                            </dt>
-                            <dd class="col-sm-8 pb-2">
-
-                                @ViewData["usuario"]
-                            </dd>
-                            <dt class="col-sm-3 pb-2">
-                                Relato
-                            </dt>
-                            <dd class="col-sm-8 pb-2">
-
-                                @Html.DisplayFor(model => @Model.relatorio)
-                            </dd>
+                <div class="row">
+                    <div class="container col" style="float: left; width: 50%">
+                        <div class="container" style="display: flex">
+                            <div class="row">
+                                <dt class="col-sm-3 pb-2">Nr. Protocolo:</dt>
+                                <dd class="col-sm-8 pb-2">
+                                    @Html.DisplayFor(model => @Model.id)
+                                </dd>
+                                <dt class="col-sm-3 pb-2">Categoria</dt>
+                                <dd class="col-sm-8 pb-2">@ViewData["categoria"]</dd>
+                                <dt class="col-sm-3 pb-2">Apoiadores</dt>
+                                <dd class="col-sm-8 pb-2">
+                                    @Html.DisplayFor(model => @Model.contadorLikes)
+                                </dd>
+                                <dt class="col-sm-3 pb-2">Data</dt>
+                                <dd class="col-sm-8 pb-2">
+                                    @Html.DisplayFor(model => @Model.data)
+                                </dd>
+                                <dt class="col-sm-3 pb-2">Usuário</dt>
+                                <dd class="col-sm-8 pb-2">@ViewData["usuario"]</dd>
+                                <dt class="col-sm-3 pb-2">Relato</dt>
+                                <dd class="col-sm-8 pb-2">
+                                    @Html.DisplayFor(model => @Model.relatorio)
+                                </dd>
+                                <dt class="col-sm-3 pb-2">Endereço</dt>
+                                <dd class="col-sm-8 pb-2">@Html.DisplayFor(model => @Model.Address)</dd>
+                            </div>
                         </div>
                     </div>
-                    <div class="container d-flex justify-content-center">
-                        <div class="container" style="float: right; width: 50%">
-                            <figure class="col-md-4">
-                                <img src="~/img/@Model.imagem" style="width: 200px;" />
-                            </figure>
-                        </div>
+                    <div class="container col d-flex justify-content-center">
+                        <figure class="col-md-4">
+                            <img src="~/img/@Model.imagem" style="width: 200px" />
+                        </figure>
                     </div>
                 </div>
-                <dt class="col-sm-3 pb-2">
-                    Endereço
-                </dt>
-                <dd class="col-sm-8 pb-2">
-
-                    @Html.DisplayFor(model => @Model.Address)
-                </dd>
-                <div class="form-group mt-3 mb-3">
-                </div>
+                <div class="form-group mt-3 mb-3"></div>
                 <dt class="col-sm-10">
-                    @(
-                        Html.GoogleMap()
-                        .Name("map")
-                        .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo")
-                        .Height(500)
-                        .Culture(CultureInfo.GetCultureInfo("pt-br"))
-                        .Center(c => c.Address(@Model.Address))
-                        .Markers(m => m.Add())
-                        .Zoom(20)
-                        )
+                    @(Html.GoogleMap().Name("map")
+                        .ApiKey("AIzaSyDJUmQK9lYOWdvAXok2uA_b3yVbef2Wifo").Height(500)
+                        .Culture(CultureInfo.GetCultureInfo("pt-br")).Center(c =>
+                        c.Address(@Model.Address)).Markers(m => m.Add()).Zoom(20))
                 </dt>
             </div>
-
         </form>
 
         <div>
@@ -110,7 +71,9 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="row">
                     <input type="hidden" asp-for="id" value="@Model.id" />
-                    <input type="hidden" asp-for="categoriaId" value="@Model.categoriaId" />
+                    <input type="hidden"
+                           asp-for="categoriaId"
+                           value="@Model.categoriaId" />
                     <input type="hidden" asp-for="relatorio" value="@Model.relatorio" />
                     <input type="hidden" asp-for="rua" value="@Model.rua" />
                     <input type="hidden" asp-for="bairro" value="@Model.bairro" />
@@ -126,7 +89,11 @@
 
                 <div class="form-group mt-3 mb-3">
                     <input type="submit" value="Gostei" class="btn bg-verde" />
-                    <button class="btn bg-verde" asp-controller="Relato" asp-action="Index">Voltar</button>
+                    <button class="btn bg-verde"
+                            asp-controller="Relato"
+                            asp-action="Index">
+                        Voltar
+                    </button>
                 </div>
             </form>
         </div>
@@ -136,7 +103,8 @@
 @section Scripts {
     @{
         @(Html.GoogleMap().ScriptRegistrar())
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        await
+       Html.RenderPartialAsync("_ValidationScriptsPartial");
 
         <script>
             $(document).ready(function () {
@@ -144,4 +112,4 @@
             });
         </script>
     }
-}
+ }
