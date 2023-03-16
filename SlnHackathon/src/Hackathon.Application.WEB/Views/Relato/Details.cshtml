@@ -23,50 +23,63 @@
     <div class="container">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="row">
-                <dt class="col-sm-3 pb-2">
-                    Nr. Protocolo:
-                </dt>
-                <dd class="col-sm-8 pb-2">
-                    @Html.DisplayFor(model => @Model.id)
-                </dd>
-            </div>
-            <div class="row">
-                <dt class="col-sm-3 pb-2">
-                    Categoria
-                </dt>
-                <dd class="col-sm-8 pb-2">
-                    @ViewData["categoria"]
-                </dd>
-                <dt class="col-sm-3 pb-2">
-                    Apoiadores
-                </dt>
-                <dd class="col-sm-8 pb-2">
+            <div class="container" style="">
+                <div class="container" style="float: left; width: 50%">
+                    <div class="row">
+                        <dt class="col-sm-3 pb-2">
+                            Nr. Protocolo:
+                        </dt>
+                        <dd class="col-sm-8 pb-2">
+                            @Html.DisplayFor(model => @Model.id)
+                        </dd>
+                    </div>
+                    <div class="container" style="display: flex">
+                        <div class="row">
+                            <dt class="col-sm-3 pb-2">
+                                Categoria
+                            </dt>
+                            <dd class="col-sm-8 pb-2">
+                                @ViewData["categoria"]
+                            </dd>
+                            <dt class="col-sm-3 pb-2">
+                                Apoiadores
+                            </dt>
+                            <dd class="col-sm-8 pb-2">
 
-                    @Html.DisplayFor(model => @Model.contadorLikes)
-                </dd>
-                <dt class="col-sm-3 pb-2">
-                    Data
-                </dt>
-                <dd class="col-sm-8 pb-2">
+                                @Html.DisplayFor(model => @Model.contadorLikes)
+                            </dd>
+                            <dt class="col-sm-3 pb-2">
+                                Data
+                            </dt>
+                            <dd class="col-sm-8 pb-2">
 
-                    @Html.DisplayFor(model => @Model.data)
-                </dd>
+                                @Html.DisplayFor(model => @Model.data)
+                            </dd>
 
-                <dt class="col-sm-3 pb-2">
-                    Usuário
-                </dt>
-                <dd class="col-sm-8 pb-2">
+                            <dt class="col-sm-3 pb-2">
+                                Usuário
+                            </dt>
+                            <dd class="col-sm-8 pb-2">
 
-                    @ViewData["usuario"]
-                </dd>
-                <dt class="col-sm-3 pb-2">
-                    Relato
-                </dt>
-                <dd class="col-sm-8 pb-2">
+                                @ViewData["usuario"]
+                            </dd>
+                            <dt class="col-sm-3 pb-2">
+                                Relato
+                            </dt>
+                            <dd class="col-sm-8 pb-2">
 
-                    @Html.DisplayFor(model => @Model.relatorio)
-                </dd>
+                                @Html.DisplayFor(model => @Model.relatorio)
+                            </dd>
+                        </div>
+                    </div>
+                    <div class="container d-flex justify-content-center">
+                        <div class="container" style="float: right; width: 50%">
+                            <figure class="col-md-4">
+                                <img src="~/img/@Model.imagem" style="width: 200px;" />
+                            </figure>
+                        </div>
+                    </div>
+                </div>
                 <dt class="col-sm-3 pb-2">
                     Endereço
                 </dt>
