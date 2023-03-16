@@ -48,7 +48,16 @@ namespace Hackathon.Application.WEB.Controllers
             return View();
 		}
 
-         [HttpPost]
+        public IActionResult LoginAnonimo()
+        {
+            CookieOptions ckOptions = new CookieOptions();
+            ckOptions.Expires = DateTime.Now.AddMinutes(20);
+            Response.Cookies.Append("user", "Anônimo&1", ckOptions);
+
+            return Redirect("/Relato/Create");
+        }
+
+        [HttpPost]
         public JsonResult Login(string email, string passWord)
         {
             var users = _userService.FindAll();
