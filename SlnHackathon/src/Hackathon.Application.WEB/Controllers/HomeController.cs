@@ -38,7 +38,12 @@ namespace Hackathon.Application.WEB.Controllers
 			return View(dto);
 		}
 
-		public IActionResult Login()
+        public IActionResult Contatos()
+        {
+            return View();
+        }
+
+        public IActionResult Login()
 		{
             var username = Request.Cookies["user"];
             if (username != null)
