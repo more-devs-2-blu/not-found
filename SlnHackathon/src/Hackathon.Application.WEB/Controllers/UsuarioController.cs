@@ -16,22 +16,28 @@ namespace Hackathon.Application.WEB.Controllers
 			return View();
 		}
 
-		[HttpPost]
+        [HttpPost]
         public async Task<IActionResult> Create([Bind("nome, email, senha")] UsuarioDTO user)
         {
-			if (ModelState.IsValid)
-			{
+            if (ModelState.IsValid)
+            {
                 if (await _userService.Save(user) > 0)
                 {
-                    CookieOptions ckOptions = new CookieOptions();
-                    ckOptions.Expires = DateTime.Now.AddMinutes(20);
+                    var users = _userService.FindAll();
 
-                    Response.Cookies.Append("user", $"{user.nome}&{user.id}", ckOptions);
+                    foreach (var item in users)
+                    {
+                        if (user.email == item.email && user.senha == item.senha)
+                        {
+                            CookieOptions ckOptions = new CookieOptions();
+                            ckOptions.Expires = DateTime.Now.AddMinutes(20);
 
+                            Response.Cookies.Append("user", $"{item.nome}&{item.id}", ckOptions);
+                        }
+                    }
                     return Redirect("/Relato/Create");
                 }
             }
-
             return View();
         }
     }
