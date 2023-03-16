@@ -1,95 +1,97 @@
 ﻿@{
-    string CurrentURL = Context.Request.Path;
+	string CurrentURL = Context.Request.Path;
 }
 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MyCity - Hackathon</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>MyCity - Hackathon</title>
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
-    <link rel="stylesheet" href="~/lib/bootstrap-icons/bootstrap-icons.css">
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Hackathon.Application.WEB.styles.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+	<link rel="stylesheet" href="~/lib/bootstrap-icons/bootstrap-icons.css">
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/Hackathon.Application.WEB.styles.css" asp-append-version="true" />
 
 </head>
 <body class="d-flex flex-column min-vh-100">
-    <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top d-flex align-items-center">
-        <div class="container d-flex align-items-center justify-content-between">
-            <div class="logo d-flex justify-content-between align-items-center">
-                <a><img src="~/img/logo.png" alt="" class="img-fluid"></a>
-                <h1 class="ms-4 mb-0 text-light"><a href="/">MyCity</a></h1>
-                <p id="nomeUsuario" class="ms-4 mb-0"></p>
-                <!-- Uncomment below if you prefer to use an image logo -->
-            </div>
+	<!-- ======= Header ======= -->
+	<header id="header" class="fixed-top d-flex align-items-center">
+		<div class="container d-flex align-items-center justify-content-between">
+			<div class="logo d-flex justify-content-between align-items-center">
+				<a><img src="~/img/logo.png" alt="" class="img-fluid"></a>
+				<h1 class="ms-4 mb-0 text-light"><a href="/">MyCity</a></h1>
+				<p id="nomeUsuario" class="ms-4 mb-0"></p>
+				<!-- Uncomment below if you prefer to use an image logo -->
+			</div>
+			<nav id="navbar" class="navbar">
+				<ul>
+					<li class="nav-item">
+						<a class="nav-link text-dark" href="/Home/Index">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link text-dark" href="/Relato/Index">Relatos</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link text-dark" href="/Home/Contatos">Entre em Contato</a>
+					</li>
+					<li>
+						<a class="getstarted" href="/Home/Login">Registre seu relato</a>
+					</li>
+					<li id="ifLogged" onclick="logout()">
+						<a class="nav-link text-dark" href="/Home/Login">Logout</a>
+					</li>
+				</ul>
+				<i class="bi bi-list mobile-nav-toggle"></i>
+			</nav><!-- .navbar -->
 
-            <nav id="navbar" class="navbar">
-                <ul>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="/Home/Index">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" href="/Relato/Index">Relatos</a>
-                    </li>
-                    <li>
-                        <a class="getstarted" href="/Home/Login">Registre seu relato</a>
-                    </li>
-                    <li id="ifLogged" onclick="logout()">
-                        <a class="nav-link text-dark" href="/Home/Login">Logout</a>
-                    </li>
-                </ul>
-                <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav><!-- .navbar -->
+		</div>
+	</header><!-- End Header -->
+	<!-- ======= Hero Section ======= -->
+	@{
+		if (CurrentURL == "/" || CurrentURL == "/Home/Index")
+		{
+			<section id="hero">
+				<div class="hero-container" data-aos="fade-up">
+					<h1>Ajude a manter a nossa cidade!</h1>
+					<h2>Transforme sua cidade: a zeladoria pública é responsabilidade de todos nós!</h2>
+					<a href="/Home/Login" class="btn-get-started scrollto">Registre aqui</a>
+				</div>
+			</section>
+		}
+	}
+	<!-- End Hero -->
+	<div>
+		<main id="main">
+			@RenderBody()
+		</main>
+	</div>
 
-        </div>
-    </header><!-- End Header -->
-    <!-- ======= Hero Section ======= -->
-    @{
-        if (CurrentURL == "/" || CurrentURL == "/Home/Index")
-        {
-            <section id="hero">
-                <div class="hero-container" data-aos="fade-up">
-                    <h1>Ajude a manter a nossa cidade!</h1>
-                    <h2>Transforme sua cidade: a zeladoria pública é responsabilidade de todos nós!</h2>
-                    <a href="/Home/Login" class="btn-get-started scrollto">Registre aqui</a>
-                </div>
-            </section>
-        }
-    }
-    <!-- End Hero -->
-    <div>
-        <main id="main">
-            @RenderBody()
-        </main>
-    </div>
+	<footer class="mt-auto" id="footer">
+		<div class="container d-flex justify-content-center">
+			&copy; 2023 - Trabalho Final Hackathon
+		</div>
+	</footer>
+	<a href="#" class="back-to-top d-flex align-items-center justify-content-center active"><i class="bi bi-arrow-up-short"></i></a>
 
-    <footer class="mt-auto" id="footer">
-        <div class="container d-flex justify-content-center">
-            &copy; 2023 - Trabalho Final Hackathon
-        </div>
-    </footer>
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center active"><i class="bi bi-arrow-up-short"></i></a>
+	<script src="~/lib/jquery/dist/jquery.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+	<script src="~/lib/aos/aos.js"></script>
+	<script src="~/lib/glightbox/js/glightbox.min.js"></script>
+	<script src="~/lib/purecounter/purecounter_vanilla.js"></script>
+	<script src="~/lib/isotope-layout/isotope.pkgd.min.js"></script>
+	<script src="~/lib/swiper/swiper-bundle.min.js"></script>
+	<script src="~/lib/waypoints/noframework.waypoints.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	<script src="~/js/jquery.mask.min.js" asp-append-version="true"></script>
+	<script src="~/js/mascaras.js" asp-append-version="true"></script>
+	<script src="~/js/viaCEP.js" asp-append-version="true"></script>
+	<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
 
-    <script src="~/lib/jquery/dist/jquery.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
-    <script src="~/lib/aos/aos.js"></script>
-    <script src="~/lib/glightbox/js/glightbox.min.js"></script>
-    <script src="~/lib/purecounter/purecounter_vanilla.js"></script>
-    <script src="~/lib/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="~/lib/swiper/swiper-bundle.min.js"></script>
-    <script src="~/lib/waypoints/noframework.waypoints.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/js/jquery.mask.min.js" asp-append-version="true"></script>
-    <script src="~/js/mascaras.js" asp-append-version="true"></script>
-    <script src="~/js/viaCEP.js" asp-append-version="true"></script>
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
-
-    @await RenderSectionAsync("Scripts", required: false)
+	@await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
