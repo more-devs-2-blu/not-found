@@ -49,7 +49,7 @@
                                  @foreach (var item in Model)
                                 {
                                 <tr>
-                                        <th scope="row" class="text-center"><a asp-action="Details" asp-route-id="@item.id">@item.id</a></th>
+                                        <th scope="row" class="text-center"><a class="btn bg-verde" asp-action="Details" asp-route-id="@item.id">@item.id</a></th>
                                         <td scope="row" class="text-center">@item.relatorio</td>
                                         <td scope="row" class="text-center">@item.contadorLikes</td>
                                 </tr> 
